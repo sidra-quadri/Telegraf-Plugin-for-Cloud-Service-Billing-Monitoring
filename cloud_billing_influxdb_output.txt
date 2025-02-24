@@ -1,0 +1,500 @@
+cloud_billing,service=Lambda,region=ap-northeast-1,usage_type=Networking usage_quantity=3358,cost_usd=194.83 1735124163168369920
+cloud_billing,service=Lambda,region=sa-east-1,usage_type=Storage usage_quantity=1799,cost_usd=202.72 1735124163168369920
+cloud_billing,service=Lambda,region=us-east-1,usage_type=Networking usage_quantity=2138,cost_usd=168.35 1735124163168369920
+cloud_billing,service=Redshift,region=us-west-2,usage_type=Kubernetes usage_quantity=1516,cost_usd=43.1 1735124163168369920
+cloud_billing,service=CloudFront,region=ap-southeast-1,usage_type=Kubernetes usage_quantity=3117,cost_usd=357.42 1735124163168369920
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=Function usage_quantity=4524,cost_usd=416.93 1735124163168369920
+cloud_billing,service=Lambda,region=sa-east-1,usage_type=Storage usage_quantity=2729,cost_usd=209.13 1735124163168369920
+cloud_billing,service=RDS,region=us-west-2,usage_type=Storage usage_quantity=4101,cost_usd=332.04 1735124163168369920
+cloud_billing,service=CloudFront,region=sa-east-1,usage_type=Kubernetes usage_quantity=3694,cost_usd=394.47 1735124163168369920
+cloud_billing,service=S3,region=eu-central-1,usage_type=Compute usage_quantity=960,cost_usd=272.66 1735124163168369920
+cloud_billing,service=RDS,region=sa-east-1,usage_type=Storage usage_quantity=1068,cost_usd=156.12 1735124163168369920
+cloud_billing,service=S3,region=us-east-1,usage_type=Compute usage_quantity=3642,cost_usd=426.41 1735124163168369920
+cloud_billing,service=EC2,region=us-west-2,usage_type=Kubernetes usage_quantity=4593,cost_usd=255.68 1735124163168369920
+cloud_billing,service=Lambda,region=eu-central-1,usage_type=Database usage_quantity=2809,cost_usd=191.1 1735124163168369920
+cloud_billing,service=Redshift,region=us-east-1,usage_type=Compute usage_quantity=4354,cost_usd=137.6 1735124163168369920
+cloud_billing,service=RDS,region=eu-central-1,usage_type=Compute usage_quantity=186,cost_usd=338.84 1735124163168369920
+cloud_billing,service=Redshift,region=ap-northeast-1,usage_type=Kubernetes usage_quantity=4160,cost_usd=261.06 1735124163168369920
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=Storage usage_quantity=3729,cost_usd=188.01 1735124163168369920
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=Kubernetes usage_quantity=3988,cost_usd=137.88 1735124163168369920
+cloud_billing,service=RDS,region=us-west-2,usage_type=Database usage_quantity=4635,cost_usd=180.96 1735124163168369920
+cloud_billing,service=EKS,region=ap-northeast-1,usage_type=Compute usage_quantity=101,cost_usd=84.78 1735124163168369920
+cloud_billing,service=RDS,region=us-west-2,usage_type=Networking usage_quantity=1070,cost_usd=261.5 1735124163168369920
+cloud_billing,service=Lambda,region=sa-east-1,usage_type=NoSQL usage_quantity=4132,cost_usd=47.41 1735124163168369920
+cloud_billing,service=DynamoDB,region=ap-southeast-1,usage_type=Kubernetes usage_quantity=3131,cost_usd=161.89 1735124163168369920
+cloud_billing,service=EKS,region=eu-central-1,usage_type=Data Warehouse usage_quantity=2457,cost_usd=225.68 1735124163168369920
+cloud_billing,service=S3,region=eu-central-1,usage_type=NoSQL usage_quantity=2243,cost_usd=397.33 1735124163168369920
+cloud_billing,service=EC2,region=sa-east-1,usage_type=Kubernetes usage_quantity=2991,cost_usd=352.07 1735124163168369920
+cloud_billing,service=EKS,region=ap-northeast-1,usage_type=NoSQL usage_quantity=1669,cost_usd=203.6 1735124163168369920
+cloud_billing,service=RDS,region=us-west-2,usage_type=Function usage_quantity=3361,cost_usd=351.56 1735124163168369920
+cloud_billing,service=RDS,region=eu-central-1,usage_type=Storage usage_quantity=3753,cost_usd=362.98 1735124163168369920
+cloud_billing,service=S3,region=ap-southeast-1,usage_type=Function usage_quantity=249,cost_usd=340.15 1735124163168369920
+cloud_billing,service=CloudFront,region=us-east-1,usage_type=Compute usage_quantity=1789,cost_usd=153.27 1735124163168369920
+cloud_billing,service=Redshift,region=us-west-2,usage_type=Kubernetes usage_quantity=2112,cost_usd=213.76 1735124163168369920
+cloud_billing,service=CloudFront,region=ap-northeast-1,usage_type=NoSQL usage_quantity=3213,cost_usd=192.29 1735124163168369920
+cloud_billing,service=CloudFront,region=us-east-1,usage_type=Compute usage_quantity=1487,cost_usd=31.86 1735124163168369920
+cloud_billing,service=DynamoDB,region=us-west-2,usage_type=Kubernetes usage_quantity=166,cost_usd=285.39 1735124163168369920
+cloud_billing,service=S3,region=us-west-2,usage_type=NoSQL usage_quantity=554,cost_usd=313.09 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-southeast-1,usage_type=Function usage_quantity=1039,cost_usd=58.46 1735124163183996928
+cloud_billing,service=RDS,region=us-west-2,usage_type=Kubernetes usage_quantity=2251,cost_usd=471.05 1735124163183996928
+cloud_billing,service=RDS,region=sa-east-1,usage_type=Function usage_quantity=3582,cost_usd=354.4 1735124163183996928
+cloud_billing,service=EC2,region=us-west-2,usage_type=Storage usage_quantity=2834,cost_usd=108.61 1735124163183996928
+cloud_billing,service=Redshift,region=us-west-2,usage_type=Storage usage_quantity=2413,cost_usd=347.93 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-northeast-1,usage_type=Networking usage_quantity=3653,cost_usd=35.48 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-northeast-1,usage_type=Database usage_quantity=2685,cost_usd=298.1 1735124163183996928
+cloud_billing,service=Lambda,region=eu-central-1,usage_type=Kubernetes usage_quantity=4234,cost_usd=54.29 1735124163183996928
+cloud_billing,service=EKS,region=us-east-1,usage_type=Compute usage_quantity=972,cost_usd=333.38 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Compute usage_quantity=4977,cost_usd=230.75 1735124163183996928
+cloud_billing,service=S3,region=ap-southeast-1,usage_type=Kubernetes usage_quantity=2968,cost_usd=275.55 1735124163183996928
+cloud_billing,service=Redshift,region=sa-east-1,usage_type=Data Warehouse usage_quantity=2613,cost_usd=178.68 1735124163183996928
+cloud_billing,service=Lambda,region=ap-northeast-1,usage_type=NoSQL usage_quantity=782,cost_usd=457.46 1735124163183996928
+cloud_billing,service=RDS,region=eu-central-1,usage_type=Networking usage_quantity=318,cost_usd=332.65 1735124163183996928
+cloud_billing,service=EC2,region=ap-northeast-1,usage_type=Database usage_quantity=3660,cost_usd=22.83 1735124163183996928
+cloud_billing,service=S3,region=eu-central-1,usage_type=Data Warehouse usage_quantity=747,cost_usd=388.81 1735124163183996928
+cloud_billing,service=RDS,region=eu-central-1,usage_type=Storage usage_quantity=2787,cost_usd=381.0 1735124163183996928
+cloud_billing,service=Lambda,region=sa-east-1,usage_type=Compute usage_quantity=2740,cost_usd=174.97 1735124163183996928
+cloud_billing,service=Lambda,region=us-east-1,usage_type=Database usage_quantity=4827,cost_usd=213.6 1735124163183996928
+cloud_billing,service=Lambda,region=ap-southeast-1,usage_type=Networking usage_quantity=3421,cost_usd=276.45 1735124163183996928
+cloud_billing,service=S3,region=eu-central-1,usage_type=NoSQL usage_quantity=737,cost_usd=54.42 1735124163183996928
+cloud_billing,service=DynamoDB,region=sa-east-1,usage_type=NoSQL usage_quantity=4657,cost_usd=479.96 1735124163183996928
+cloud_billing,service=RDS,region=us-east-1,usage_type=Function usage_quantity=1064,cost_usd=385.17 1735124163183996928
+cloud_billing,service=RDS,region=ap-northeast-1,usage_type=Networking usage_quantity=144,cost_usd=282.69 1735124163183996928
+cloud_billing,service=RDS,region=us-east-1,usage_type=Networking usage_quantity=1452,cost_usd=175.72 1735124163183996928
+cloud_billing,service=DynamoDB,region=us-east-1,usage_type=NoSQL usage_quantity=342,cost_usd=328.67 1735124163183996928
+cloud_billing,service=RDS,region=us-east-1,usage_type=Data Warehouse usage_quantity=1280,cost_usd=68.62 1735124163183996928
+cloud_billing,service=EKS,region=eu-central-1,usage_type=Function usage_quantity=2315,cost_usd=449.34 1735124163183996928
+cloud_billing,service=EKS,region=ap-northeast-1,usage_type=NoSQL usage_quantity=2078,cost_usd=86.75 1735124163183996928
+cloud_billing,service=EC2,region=eu-central-1,usage_type=Data Warehouse usage_quantity=593,cost_usd=361.25 1735124163183996928
+cloud_billing,service=CloudFront,region=us-east-1,usage_type=Database usage_quantity=3601,cost_usd=92.45 1735124163183996928
+cloud_billing,service=Redshift,region=sa-east-1,usage_type=NoSQL usage_quantity=919,cost_usd=325.17 1735124163183996928
+cloud_billing,service=Redshift,region=eu-central-1,usage_type=Networking usage_quantity=3539,cost_usd=486.87 1735124163183996928
+cloud_billing,service=DynamoDB,region=sa-east-1,usage_type=Database usage_quantity=4389,cost_usd=289.83 1735124163183996928
+cloud_billing,service=RDS,region=eu-central-1,usage_type=Compute usage_quantity=4684,cost_usd=130.23 1735124163183996928
+cloud_billing,service=Lambda,region=ap-southeast-1,usage_type=Storage usage_quantity=4960,cost_usd=249.18 1735124163183996928
+cloud_billing,service=S3,region=ap-southeast-1,usage_type=Database usage_quantity=1415,cost_usd=337.72 1735124163183996928
+cloud_billing,service=Lambda,region=us-east-1,usage_type=Kubernetes usage_quantity=2526,cost_usd=419.47 1735124163183996928
+cloud_billing,service=RDS,region=us-west-2,usage_type=Storage usage_quantity=4861,cost_usd=405.02 1735124163183996928
+cloud_billing,service=S3,region=us-west-2,usage_type=Kubernetes usage_quantity=3546,cost_usd=443.1 1735124163183996928
+cloud_billing,service=EKS,region=ap-northeast-1,usage_type=Networking usage_quantity=3663,cost_usd=293.07 1735124163183996928
+cloud_billing,service=CloudFront,region=eu-central-1,usage_type=Function usage_quantity=2410,cost_usd=119.43 1735124163183996928
+cloud_billing,service=EKS,region=us-west-2,usage_type=Compute usage_quantity=4699,cost_usd=383.68 1735124163183996928
+cloud_billing,service=S3,region=sa-east-1,usage_type=Networking usage_quantity=908,cost_usd=341.76 1735124163183996928
+cloud_billing,service=Lambda,region=ap-southeast-1,usage_type=Database usage_quantity=2244,cost_usd=71.94 1735124163183996928
+cloud_billing,service=EC2,region=us-east-1,usage_type=Networking usage_quantity=1618,cost_usd=401.77 1735124163183996928
+cloud_billing,service=EKS,region=eu-central-1,usage_type=Database usage_quantity=3015,cost_usd=25.14 1735124163183996928
+cloud_billing,service=RDS,region=ap-southeast-1,usage_type=Storage usage_quantity=903,cost_usd=488.21 1735124163183996928
+cloud_billing,service=Lambda,region=ap-northeast-1,usage_type=Storage usage_quantity=3552,cost_usd=83.88 1735124163183996928
+cloud_billing,service=Lambda,region=ap-northeast-1,usage_type=Data Warehouse usage_quantity=3500,cost_usd=301.49 1735124163183996928
+cloud_billing,service=EKS,region=ap-northeast-1,usage_type=NoSQL usage_quantity=418,cost_usd=92.18 1735124163183996928
+cloud_billing,service=EKS,region=sa-east-1,usage_type=Compute usage_quantity=552,cost_usd=448.04 1735124163183996928
+cloud_billing,service=EKS,region=ap-northeast-1,usage_type=Kubernetes usage_quantity=2724,cost_usd=335.32 1735124163183996928
+cloud_billing,service=DynamoDB,region=us-east-1,usage_type=Storage usage_quantity=4335,cost_usd=40.15 1735124163183996928
+cloud_billing,service=Lambda,region=us-west-2,usage_type=Compute usage_quantity=373,cost_usd=140.22 1735124163183996928
+cloud_billing,service=S3,region=eu-central-1,usage_type=Storage usage_quantity=610,cost_usd=224.43 1735124163183996928
+cloud_billing,service=S3,region=eu-central-1,usage_type=Compute usage_quantity=2814,cost_usd=413.11 1735124163183996928
+cloud_billing,service=RDS,region=sa-east-1,usage_type=Storage usage_quantity=2078,cost_usd=234.71 1735124163183996928
+cloud_billing,service=RDS,region=sa-east-1,usage_type=Compute usage_quantity=4919,cost_usd=172.95 1735124163183996928
+cloud_billing,service=DynamoDB,region=sa-east-1,usage_type=Compute usage_quantity=1585,cost_usd=340.58 1735124163183996928
+cloud_billing,service=EKS,region=ap-northeast-1,usage_type=Function usage_quantity=1800,cost_usd=354.61 1735124163183996928
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=NoSQL usage_quantity=2005,cost_usd=257.63 1735124163183996928
+cloud_billing,service=DynamoDB,region=sa-east-1,usage_type=Storage usage_quantity=4307,cost_usd=467.68 1735124163183996928
+cloud_billing,service=RDS,region=eu-central-1,usage_type=Networking usage_quantity=972,cost_usd=472.53 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-southeast-1,usage_type=Function usage_quantity=845,cost_usd=236.88 1735124163183996928
+cloud_billing,service=Redshift,region=us-east-1,usage_type=Data Warehouse usage_quantity=1441,cost_usd=498.47 1735124163183996928
+cloud_billing,service=EKS,region=us-east-1,usage_type=NoSQL usage_quantity=2986,cost_usd=384.44 1735124163183996928
+cloud_billing,service=S3,region=ap-southeast-1,usage_type=Compute usage_quantity=2750,cost_usd=102.4 1735124163183996928
+cloud_billing,service=Lambda,region=us-west-2,usage_type=NoSQL usage_quantity=2250,cost_usd=248.87 1735124163183996928
+cloud_billing,service=DynamoDB,region=eu-central-1,usage_type=Networking usage_quantity=1429,cost_usd=18.52 1735124163183996928
+cloud_billing,service=S3,region=ap-northeast-1,usage_type=Function usage_quantity=1931,cost_usd=359.37 1735124163183996928
+cloud_billing,service=EC2,region=us-east-1,usage_type=Database usage_quantity=4666,cost_usd=458.41 1735124163183996928
+cloud_billing,service=EKS,region=us-west-2,usage_type=Kubernetes usage_quantity=4490,cost_usd=383.01 1735124163183996928
+cloud_billing,service=Redshift,region=sa-east-1,usage_type=Database usage_quantity=468,cost_usd=183.24 1735124163183996928
+cloud_billing,service=EC2,region=us-west-2,usage_type=Storage usage_quantity=3573,cost_usd=461.91 1735124163183996928
+cloud_billing,service=Lambda,region=ap-northeast-1,usage_type=Data Warehouse usage_quantity=1421,cost_usd=291.24 1735124163183996928
+cloud_billing,service=EC2,region=us-east-1,usage_type=Function usage_quantity=4962,cost_usd=417.43 1735124163183996928
+cloud_billing,service=EC2,region=us-east-1,usage_type=Compute usage_quantity=3494,cost_usd=299.37 1735124163183996928
+cloud_billing,service=RDS,region=ap-northeast-1,usage_type=Function usage_quantity=3685,cost_usd=380.98 1735124163183996928
+cloud_billing,service=EKS,region=us-west-2,usage_type=Networking usage_quantity=694,cost_usd=420.6 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-southeast-1,usage_type=Data Warehouse usage_quantity=2787,cost_usd=356.55 1735124163183996928
+cloud_billing,service=Redshift,region=eu-central-1,usage_type=Compute usage_quantity=3541,cost_usd=17.25 1735124163183996928
+cloud_billing,service=RDS,region=sa-east-1,usage_type=Kubernetes usage_quantity=2123,cost_usd=491.9 1735124163183996928
+cloud_billing,service=S3,region=ap-northeast-1,usage_type=Data Warehouse usage_quantity=1534,cost_usd=67.59 1735124163183996928
+cloud_billing,service=EC2,region=ap-northeast-1,usage_type=Kubernetes usage_quantity=3791,cost_usd=117.62 1735124163183996928
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=Storage usage_quantity=2017,cost_usd=247.92 1735124163183996928
+cloud_billing,service=EKS,region=eu-central-1,usage_type=Function usage_quantity=2556,cost_usd=442.27 1735124163183996928
+cloud_billing,service=Redshift,region=us-west-2,usage_type=NoSQL usage_quantity=1486,cost_usd=349.33 1735124163183996928
+cloud_billing,service=Lambda,region=us-west-2,usage_type=Compute usage_quantity=2464,cost_usd=84.99 1735124163183996928
+cloud_billing,service=RDS,region=eu-central-1,usage_type=Storage usage_quantity=4248,cost_usd=348.44 1735124163183996928
+cloud_billing,service=EKS,region=eu-central-1,usage_type=Kubernetes usage_quantity=933,cost_usd=395.47 1735124163183996928
+cloud_billing,service=DynamoDB,region=us-east-1,usage_type=Function usage_quantity=1381,cost_usd=310.01 1735124163183996928
+cloud_billing,service=RDS,region=us-east-1,usage_type=Compute usage_quantity=2994,cost_usd=419.82 1735124163183996928
+cloud_billing,service=DynamoDB,region=us-east-1,usage_type=Storage usage_quantity=4629,cost_usd=265.0 1735124163183996928
+cloud_billing,service=EKS,region=ap-northeast-1,usage_type=Database usage_quantity=490,cost_usd=450.96 1735124163183996928
+cloud_billing,service=Redshift,region=sa-east-1,usage_type=Networking usage_quantity=2878,cost_usd=301.05 1735124163183996928
+cloud_billing,service=Redshift,region=us-east-1,usage_type=Storage usage_quantity=2173,cost_usd=318.01 1735124163183996928
+cloud_billing,service=RDS,region=sa-east-1,usage_type=NoSQL usage_quantity=1695,cost_usd=178.7 1735124163183996928
+cloud_billing,service=S3,region=us-west-2,usage_type=Networking usage_quantity=4095,cost_usd=371.35 1735124163183996928
+cloud_billing,service=Redshift,region=ap-northeast-1,usage_type=Compute usage_quantity=3638,cost_usd=171.11 1735124163183996928
+cloud_billing,service=Redshift,region=eu-central-1,usage_type=Networking usage_quantity=2321,cost_usd=163.21 1735124163183996928
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=Function usage_quantity=2238,cost_usd=51.91 1735124163183996928
+cloud_billing,service=CloudFront,region=us-east-1,usage_type=Database usage_quantity=334,cost_usd=169.89 1735124163183996928
+cloud_billing,service=EKS,region=ap-northeast-1,usage_type=Data Warehouse usage_quantity=2789,cost_usd=437.29 1735124163183996928
+cloud_billing,service=Redshift,region=eu-central-1,usage_type=Kubernetes usage_quantity=4591,cost_usd=184.3 1735124163183996928
+cloud_billing,service=EC2,region=eu-central-1,usage_type=Database usage_quantity=602,cost_usd=249.17 1735124163183996928
+cloud_billing,service=Lambda,region=us-east-1,usage_type=NoSQL usage_quantity=4830,cost_usd=17.3 1735124163183996928
+cloud_billing,service=S3,region=sa-east-1,usage_type=Networking usage_quantity=1911,cost_usd=439.43 1735124163183996928
+cloud_billing,service=RDS,region=eu-central-1,usage_type=Data Warehouse usage_quantity=2668,cost_usd=442.69 1735124163183996928
+cloud_billing,service=Lambda,region=us-west-2,usage_type=Function usage_quantity=1399,cost_usd=376.51 1735124163183996928
+cloud_billing,service=Lambda,region=eu-central-1,usage_type=Storage usage_quantity=1968,cost_usd=235.93 1735124163183996928
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=Kubernetes usage_quantity=3080,cost_usd=126.3 1735124163183996928
+cloud_billing,service=EKS,region=sa-east-1,usage_type=Data Warehouse usage_quantity=2117,cost_usd=439.56 1735124163183996928
+cloud_billing,service=EC2,region=eu-central-1,usage_type=Storage usage_quantity=1125,cost_usd=452.69 1735124163183996928
+cloud_billing,service=Lambda,region=ap-northeast-1,usage_type=Kubernetes usage_quantity=653,cost_usd=311.6 1735124163183996928
+cloud_billing,service=RDS,region=sa-east-1,usage_type=Compute usage_quantity=1136,cost_usd=467.27 1735124163183996928
+cloud_billing,service=CloudFront,region=us-east-1,usage_type=Compute usage_quantity=1232,cost_usd=164.26 1735124163183996928
+cloud_billing,service=S3,region=us-west-2,usage_type=Networking usage_quantity=3878,cost_usd=268.78 1735124163183996928
+cloud_billing,service=Redshift,region=sa-east-1,usage_type=Function usage_quantity=2103,cost_usd=172.64 1735124163183996928
+cloud_billing,service=Lambda,region=ap-southeast-1,usage_type=NoSQL usage_quantity=1198,cost_usd=317.13 1735124163183996928
+cloud_billing,service=Lambda,region=us-east-1,usage_type=Data Warehouse usage_quantity=698,cost_usd=297.48 1735124163183996928
+cloud_billing,service=DynamoDB,region=sa-east-1,usage_type=NoSQL usage_quantity=2036,cost_usd=164.22 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-northeast-1,usage_type=Database usage_quantity=4471,cost_usd=296.23 1735124163183996928
+cloud_billing,service=Redshift,region=ap-northeast-1,usage_type=Networking usage_quantity=1238,cost_usd=49.21 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Database usage_quantity=2603,cost_usd=269.77 1735124163183996928
+cloud_billing,service=Redshift,region=sa-east-1,usage_type=NoSQL usage_quantity=4578,cost_usd=380.9 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Networking usage_quantity=2478,cost_usd=51.42 1735124163183996928
+cloud_billing,service=EKS,region=us-east-1,usage_type=Function usage_quantity=3261,cost_usd=114.7 1735124163183996928
+cloud_billing,service=EKS,region=sa-east-1,usage_type=Kubernetes usage_quantity=1825,cost_usd=24.12 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Database usage_quantity=348,cost_usd=11.12 1735124163183996928
+cloud_billing,service=EC2,region=ap-southeast-1,usage_type=Data Warehouse usage_quantity=3459,cost_usd=272.26 1735124163183996928
+cloud_billing,service=DynamoDB,region=eu-central-1,usage_type=Function usage_quantity=3394,cost_usd=56.34 1735124163183996928
+cloud_billing,service=Lambda,region=eu-central-1,usage_type=Data Warehouse usage_quantity=155,cost_usd=146.94 1735124163183996928
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=Data Warehouse usage_quantity=759,cost_usd=91.32 1735124163183996928
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=Function usage_quantity=1564,cost_usd=369.28 1735124163183996928
+cloud_billing,service=EKS,region=sa-east-1,usage_type=Database usage_quantity=4936,cost_usd=76.71 1735124163183996928
+cloud_billing,service=RDS,region=us-east-1,usage_type=Database usage_quantity=2210,cost_usd=498.1 1735124163183996928
+cloud_billing,service=DynamoDB,region=us-east-1,usage_type=Kubernetes usage_quantity=2662,cost_usd=232.29 1735124163183996928
+cloud_billing,service=EKS,region=ap-southeast-1,usage_type=Networking usage_quantity=2889,cost_usd=495.06 1735124163183996928
+cloud_billing,service=RDS,region=ap-southeast-1,usage_type=Database usage_quantity=4021,cost_usd=267.55 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-northeast-1,usage_type=Data Warehouse usage_quantity=3017,cost_usd=278.43 1735124163183996928
+cloud_billing,service=S3,region=eu-central-1,usage_type=Storage usage_quantity=193,cost_usd=367.73 1735124163183996928
+cloud_billing,service=EKS,region=us-west-2,usage_type=Kubernetes usage_quantity=796,cost_usd=144.04 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Networking usage_quantity=4062,cost_usd=359.06 1735124163183996928
+cloud_billing,service=EC2,region=eu-central-1,usage_type=Compute usage_quantity=4447,cost_usd=316.18 1735124163183996928
+cloud_billing,service=EC2,region=us-west-2,usage_type=Database usage_quantity=2406,cost_usd=339.29 1735124163183996928
+cloud_billing,service=Redshift,region=us-west-2,usage_type=Networking usage_quantity=768,cost_usd=182.39 1735124163183996928
+cloud_billing,service=S3,region=us-east-1,usage_type=Storage usage_quantity=3923,cost_usd=185.16 1735124163183996928
+cloud_billing,service=EKS,region=sa-east-1,usage_type=NoSQL usage_quantity=3981,cost_usd=399.54 1735124163183996928
+cloud_billing,service=Lambda,region=sa-east-1,usage_type=Function usage_quantity=4354,cost_usd=482.52 1735124163183996928
+cloud_billing,service=CloudFront,region=sa-east-1,usage_type=Data Warehouse usage_quantity=1019,cost_usd=63.54 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Compute usage_quantity=4669,cost_usd=452.81 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-southeast-1,usage_type=Kubernetes usage_quantity=2417,cost_usd=136.43 1735124163183996928
+cloud_billing,service=EKS,region=ap-southeast-1,usage_type=NoSQL usage_quantity=1086,cost_usd=96.98 1735124163183996928
+cloud_billing,service=EC2,region=us-east-1,usage_type=Data Warehouse usage_quantity=815,cost_usd=341.76 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Function usage_quantity=3873,cost_usd=360.0 1735124163183996928
+cloud_billing,service=Lambda,region=ap-southeast-1,usage_type=NoSQL usage_quantity=3351,cost_usd=359.84 1735124163183996928
+cloud_billing,service=S3,region=us-west-2,usage_type=Database usage_quantity=473,cost_usd=342.32 1735124163183996928
+cloud_billing,service=DynamoDB,region=eu-central-1,usage_type=Kubernetes usage_quantity=4921,cost_usd=80.8 1735124163183996928
+cloud_billing,service=S3,region=sa-east-1,usage_type=Database usage_quantity=3525,cost_usd=141.98 1735124163183996928
+cloud_billing,service=Lambda,region=eu-central-1,usage_type=Function usage_quantity=4455,cost_usd=307.19 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-southeast-1,usage_type=Data Warehouse usage_quantity=2836,cost_usd=94.14 1735124163183996928
+cloud_billing,service=Redshift,region=us-west-2,usage_type=Data Warehouse usage_quantity=1942,cost_usd=364.52 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-northeast-1,usage_type=Storage usage_quantity=4733,cost_usd=192.91 1735124163183996928
+cloud_billing,service=EKS,region=sa-east-1,usage_type=Data Warehouse usage_quantity=3609,cost_usd=172.2 1735124163183996928
+cloud_billing,service=RDS,region=us-east-1,usage_type=Function usage_quantity=4848,cost_usd=275.25 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-southeast-1,usage_type=Database usage_quantity=4644,cost_usd=265.78 1735124163183996928
+cloud_billing,service=EC2,region=eu-central-1,usage_type=NoSQL usage_quantity=3900,cost_usd=263.44 1735124163183996928
+cloud_billing,service=Lambda,region=ap-southeast-1,usage_type=NoSQL usage_quantity=1085,cost_usd=305.56 1735124163183996928
+cloud_billing,service=EKS,region=sa-east-1,usage_type=Function usage_quantity=1436,cost_usd=172.42 1735124163183996928
+cloud_billing,service=Redshift,region=us-east-1,usage_type=Networking usage_quantity=101,cost_usd=125.75 1735124163183996928
+cloud_billing,service=EC2,region=eu-central-1,usage_type=Compute usage_quantity=3843,cost_usd=147.47 1735124163183996928
+cloud_billing,service=EKS,region=eu-central-1,usage_type=Networking usage_quantity=2311,cost_usd=256.16 1735124163183996928
+cloud_billing,service=DynamoDB,region=us-west-2,usage_type=Networking usage_quantity=2082,cost_usd=367.89 1735124163183996928
+cloud_billing,service=RDS,region=eu-central-1,usage_type=Compute usage_quantity=4960,cost_usd=131.24 1735124163183996928
+cloud_billing,service=EKS,region=eu-central-1,usage_type=Compute usage_quantity=3306,cost_usd=145.15 1735124163183996928
+cloud_billing,service=Redshift,region=us-east-1,usage_type=Kubernetes usage_quantity=720,cost_usd=144.76 1735124163183996928
+cloud_billing,service=RDS,region=us-east-1,usage_type=Database usage_quantity=1595,cost_usd=75.95 1735124163183996928
+cloud_billing,service=EC2,region=us-west-2,usage_type=Function usage_quantity=1062,cost_usd=453.87 1735124163183996928
+cloud_billing,service=RDS,region=us-east-1,usage_type=Storage usage_quantity=2011,cost_usd=137.95 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-southeast-1,usage_type=Data Warehouse usage_quantity=339,cost_usd=265.64 1735124163183996928
+cloud_billing,service=Redshift,region=ap-northeast-1,usage_type=Kubernetes usage_quantity=4001,cost_usd=68.29 1735124163183996928
+cloud_billing,service=EC2,region=us-east-1,usage_type=Database usage_quantity=4046,cost_usd=160.15 1735124163183996928
+cloud_billing,service=EC2,region=ap-southeast-1,usage_type=NoSQL usage_quantity=2080,cost_usd=220.61 1735124163183996928
+cloud_billing,service=DynamoDB,region=us-west-2,usage_type=Kubernetes usage_quantity=4917,cost_usd=237.84 1735124163183996928
+cloud_billing,service=Lambda,region=eu-central-1,usage_type=Database usage_quantity=2808,cost_usd=123.57 1735124163183996928
+cloud_billing,service=EC2,region=ap-northeast-1,usage_type=Compute usage_quantity=1587,cost_usd=225.93 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-northeast-1,usage_type=Function usage_quantity=3622,cost_usd=218.88 1735124163183996928
+cloud_billing,service=RDS,region=us-west-2,usage_type=Database usage_quantity=2521,cost_usd=143.69 1735124163183996928
+cloud_billing,service=EKS,region=us-east-1,usage_type=NoSQL usage_quantity=3821,cost_usd=309.65 1735124163183996928
+cloud_billing,service=Redshift,region=eu-central-1,usage_type=Networking usage_quantity=3121,cost_usd=96.92 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-southeast-1,usage_type=Function usage_quantity=4231,cost_usd=78.24 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-northeast-1,usage_type=Data Warehouse usage_quantity=295,cost_usd=314.43 1735124163183996928
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=NoSQL usage_quantity=2022,cost_usd=478.06 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-southeast-1,usage_type=NoSQL usage_quantity=4430,cost_usd=322.74 1735124163183996928
+cloud_billing,service=RDS,region=us-east-1,usage_type=Database usage_quantity=3341,cost_usd=311.14 1735124163183996928
+cloud_billing,service=Redshift,region=eu-central-1,usage_type=Networking usage_quantity=4944,cost_usd=19.86 1735124163183996928
+cloud_billing,service=EKS,region=sa-east-1,usage_type=Data Warehouse usage_quantity=2260,cost_usd=240.9 1735124163183996928
+cloud_billing,service=DynamoDB,region=eu-central-1,usage_type=NoSQL usage_quantity=4142,cost_usd=145.86 1735124163183996928
+cloud_billing,service=Lambda,region=eu-central-1,usage_type=Kubernetes usage_quantity=286,cost_usd=314.71 1735124163183996928
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=Function usage_quantity=4833,cost_usd=33.35 1735124163183996928
+cloud_billing,service=RDS,region=ap-northeast-1,usage_type=Networking usage_quantity=2008,cost_usd=184.75 1735124163183996928
+cloud_billing,service=CloudFront,region=eu-central-1,usage_type=Kubernetes usage_quantity=2185,cost_usd=215.85 1735124163183996928
+cloud_billing,service=EKS,region=ap-northeast-1,usage_type=Storage usage_quantity=2691,cost_usd=368.32 1735124163183996928
+cloud_billing,service=S3,region=ap-northeast-1,usage_type=Function usage_quantity=1429,cost_usd=204.74 1735124163183996928
+cloud_billing,service=S3,region=ap-southeast-1,usage_type=Compute usage_quantity=1414,cost_usd=59.98 1735124163183996928
+cloud_billing,service=EC2,region=sa-east-1,usage_type=Kubernetes usage_quantity=4421,cost_usd=366.27 1735124163183996928
+cloud_billing,service=Lambda,region=us-east-1,usage_type=Compute usage_quantity=595,cost_usd=166.17 1735124163183996928
+cloud_billing,service=DynamoDB,region=us-west-2,usage_type=Storage usage_quantity=2533,cost_usd=139.39 1735124163183996928
+cloud_billing,service=Lambda,region=us-west-2,usage_type=Networking usage_quantity=3190,cost_usd=137.3 1735124163183996928
+cloud_billing,service=RDS,region=us-east-1,usage_type=Compute usage_quantity=3309,cost_usd=441.2 1735124163183996928
+cloud_billing,service=Redshift,region=sa-east-1,usage_type=Function usage_quantity=2004,cost_usd=190.86 1735124163183996928
+cloud_billing,service=Redshift,region=ap-northeast-1,usage_type=Networking usage_quantity=2090,cost_usd=118.64 1735124163183996928
+cloud_billing,service=Redshift,region=sa-east-1,usage_type=Storage usage_quantity=4938,cost_usd=224.22 1735124163183996928
+cloud_billing,service=EC2,region=us-west-2,usage_type=NoSQL usage_quantity=4080,cost_usd=490.32 1735124163183996928
+cloud_billing,service=EKS,region=ap-southeast-1,usage_type=Compute usage_quantity=123,cost_usd=358.4 1735124163183996928
+cloud_billing,service=EKS,region=ap-northeast-1,usage_type=NoSQL usage_quantity=3733,cost_usd=329.02 1735124163183996928
+cloud_billing,service=S3,region=us-west-2,usage_type=Kubernetes usage_quantity=2288,cost_usd=281.08 1735124163183996928
+cloud_billing,service=EC2,region=sa-east-1,usage_type=Database usage_quantity=1378,cost_usd=26.82 1735124163183996928
+cloud_billing,service=RDS,region=eu-central-1,usage_type=Kubernetes usage_quantity=630,cost_usd=352.36 1735124163183996928
+cloud_billing,service=EKS,region=ap-northeast-1,usage_type=Networking usage_quantity=1931,cost_usd=221.43 1735124163183996928
+cloud_billing,service=DynamoDB,region=us-west-2,usage_type=NoSQL usage_quantity=2827,cost_usd=489.92 1735124163183996928
+cloud_billing,service=EC2,region=us-east-1,usage_type=Data Warehouse usage_quantity=214,cost_usd=280.93 1735124163183996928
+cloud_billing,service=Lambda,region=sa-east-1,usage_type=Data Warehouse usage_quantity=2826,cost_usd=118.0 1735124163183996928
+cloud_billing,service=RDS,region=us-east-1,usage_type=Function usage_quantity=3299,cost_usd=58.81 1735124163183996928
+cloud_billing,service=Lambda,region=ap-northeast-1,usage_type=Data Warehouse usage_quantity=4887,cost_usd=375.72 1735124163183996928
+cloud_billing,service=EKS,region=ap-southeast-1,usage_type=Data Warehouse usage_quantity=1213,cost_usd=39.4 1735124163183996928
+cloud_billing,service=Redshift,region=us-west-2,usage_type=Storage usage_quantity=3073,cost_usd=182.47 1735124163183996928
+cloud_billing,service=Redshift,region=sa-east-1,usage_type=NoSQL usage_quantity=475,cost_usd=327.0 1735124163183996928
+cloud_billing,service=CloudFront,region=us-east-1,usage_type=Data Warehouse usage_quantity=3784,cost_usd=270.47 1735124163183996928
+cloud_billing,service=Redshift,region=ap-northeast-1,usage_type=Data Warehouse usage_quantity=3100,cost_usd=154.92 1735124163183996928
+cloud_billing,service=DynamoDB,region=sa-east-1,usage_type=Compute usage_quantity=4989,cost_usd=268.03 1735124163183996928
+cloud_billing,service=S3,region=us-west-2,usage_type=Database usage_quantity=4885,cost_usd=55.72 1735124163183996928
+cloud_billing,service=Redshift,region=sa-east-1,usage_type=Database usage_quantity=2696,cost_usd=207.02 1735124163183996928
+cloud_billing,service=RDS,region=eu-central-1,usage_type=Networking usage_quantity=1115,cost_usd=110.86 1735124163183996928
+cloud_billing,service=S3,region=us-west-2,usage_type=Data Warehouse usage_quantity=4103,cost_usd=495.48 1735124163183996928
+cloud_billing,service=Lambda,region=us-west-2,usage_type=Compute usage_quantity=2275,cost_usd=78.78 1735124163183996928
+cloud_billing,service=S3,region=ap-southeast-1,usage_type=Networking usage_quantity=1690,cost_usd=295.91 1735124163183996928
+cloud_billing,service=DynamoDB,region=eu-central-1,usage_type=Database usage_quantity=2354,cost_usd=76.9 1735124163183996928
+cloud_billing,service=Redshift,region=us-west-2,usage_type=Kubernetes usage_quantity=2084,cost_usd=344.79 1735124163183996928
+cloud_billing,service=EC2,region=ap-southeast-1,usage_type=Data Warehouse usage_quantity=4756,cost_usd=83.68 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-southeast-1,usage_type=Data Warehouse usage_quantity=2323,cost_usd=99.04 1735124163183996928
+cloud_billing,service=DynamoDB,region=sa-east-1,usage_type=Function usage_quantity=4028,cost_usd=353.1 1735124163183996928
+cloud_billing,service=CloudFront,region=eu-central-1,usage_type=NoSQL usage_quantity=930,cost_usd=154.07 1735124163183996928
+cloud_billing,service=S3,region=sa-east-1,usage_type=Database usage_quantity=4444,cost_usd=11.52 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-northeast-1,usage_type=Function usage_quantity=4555,cost_usd=119.68 1735124163183996928
+cloud_billing,service=CloudFront,region=eu-central-1,usage_type=Compute usage_quantity=134,cost_usd=23.16 1735124163183996928
+cloud_billing,service=S3,region=sa-east-1,usage_type=Database usage_quantity=2921,cost_usd=425.83 1735124163183996928
+cloud_billing,service=EKS,region=eu-central-1,usage_type=Database usage_quantity=3728,cost_usd=114.37 1735124163183996928
+cloud_billing,service=Lambda,region=sa-east-1,usage_type=Compute usage_quantity=1341,cost_usd=388.89 1735124163183996928
+cloud_billing,service=S3,region=ap-southeast-1,usage_type=Storage usage_quantity=1538,cost_usd=200.43 1735124163183996928
+cloud_billing,service=EC2,region=ap-southeast-1,usage_type=Compute usage_quantity=4356,cost_usd=318.03 1735124163183996928
+cloud_billing,service=DynamoDB,region=eu-central-1,usage_type=Database usage_quantity=3343,cost_usd=121.95 1735124163183996928
+cloud_billing,service=EC2,region=us-east-1,usage_type=NoSQL usage_quantity=151,cost_usd=140.34 1735124163183996928
+cloud_billing,service=Lambda,region=us-west-2,usage_type=Database usage_quantity=370,cost_usd=128.36 1735124163183996928
+cloud_billing,service=RDS,region=ap-southeast-1,usage_type=Compute usage_quantity=3060,cost_usd=330.55 1735124163183996928
+cloud_billing,service=EKS,region=us-west-2,usage_type=Function usage_quantity=3527,cost_usd=96.33 1735124163183996928
+cloud_billing,service=S3,region=us-west-2,usage_type=Function usage_quantity=1140,cost_usd=296.46 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Database usage_quantity=3108,cost_usd=47.47 1735124163183996928
+cloud_billing,service=Lambda,region=sa-east-1,usage_type=Kubernetes usage_quantity=1811,cost_usd=34.32 1735124163183996928
+cloud_billing,service=RDS,region=sa-east-1,usage_type=Database usage_quantity=4296,cost_usd=140.93 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-northeast-1,usage_type=Storage usage_quantity=1889,cost_usd=458.29 1735124163183996928
+cloud_billing,service=Redshift,region=us-east-1,usage_type=Function usage_quantity=1994,cost_usd=317.81 1735124163183996928
+cloud_billing,service=EC2,region=us-east-1,usage_type=Networking usage_quantity=475,cost_usd=236.83 1735124163183996928
+cloud_billing,service=Lambda,region=sa-east-1,usage_type=Storage usage_quantity=2189,cost_usd=181.54 1735124163183996928
+cloud_billing,service=RDS,region=us-west-2,usage_type=Database usage_quantity=3104,cost_usd=52.92 1735124163183996928
+cloud_billing,service=CloudFront,region=eu-central-1,usage_type=Networking usage_quantity=826,cost_usd=379.24 1735124163183996928
+cloud_billing,service=DynamoDB,region=eu-central-1,usage_type=Database usage_quantity=1709,cost_usd=74.08 1735124163183996928
+cloud_billing,service=CloudFront,region=us-east-1,usage_type=Data Warehouse usage_quantity=3077,cost_usd=200.13 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-southeast-1,usage_type=Storage usage_quantity=2419,cost_usd=437.63 1735124163183996928
+cloud_billing,service=EC2,region=sa-east-1,usage_type=Compute usage_quantity=1651,cost_usd=193.26 1735124163183996928
+cloud_billing,service=Redshift,region=us-east-1,usage_type=Kubernetes usage_quantity=110,cost_usd=395.07 1735124163183996928
+cloud_billing,service=S3,region=sa-east-1,usage_type=Kubernetes usage_quantity=4296,cost_usd=28.31 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-southeast-1,usage_type=Storage usage_quantity=4327,cost_usd=289.0 1735124163183996928
+cloud_billing,service=S3,region=sa-east-1,usage_type=Data Warehouse usage_quantity=2730,cost_usd=123.99 1735124163183996928
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=NoSQL usage_quantity=3559,cost_usd=38.63 1735124163183996928
+cloud_billing,service=Lambda,region=ap-southeast-1,usage_type=Database usage_quantity=3904,cost_usd=304.53 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-northeast-1,usage_type=Kubernetes usage_quantity=924,cost_usd=172.24 1735124163183996928
+cloud_billing,service=Lambda,region=sa-east-1,usage_type=Database usage_quantity=894,cost_usd=326.38 1735124163183996928
+cloud_billing,service=EKS,region=us-east-1,usage_type=Compute usage_quantity=4006,cost_usd=414.78 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Function usage_quantity=3946,cost_usd=338.76 1735124163183996928
+cloud_billing,service=CloudFront,region=eu-central-1,usage_type=Database usage_quantity=807,cost_usd=395.24 1735124163183996928
+cloud_billing,service=EC2,region=sa-east-1,usage_type=Kubernetes usage_quantity=999,cost_usd=205.85 1735124163183996928
+cloud_billing,service=RDS,region=us-west-2,usage_type=Database usage_quantity=3576,cost_usd=388.06 1735124163183996928
+cloud_billing,service=EKS,region=us-west-2,usage_type=Function usage_quantity=2755,cost_usd=327.57 1735124163183996928
+cloud_billing,service=Lambda,region=us-west-2,usage_type=NoSQL usage_quantity=4801,cost_usd=413.09 1735124163183996928
+cloud_billing,service=CloudFront,region=sa-east-1,usage_type=Data Warehouse usage_quantity=4208,cost_usd=413.42 1735124163183996928
+cloud_billing,service=EC2,region=us-east-1,usage_type=Kubernetes usage_quantity=2131,cost_usd=146.69 1735124163183996928
+cloud_billing,service=EKS,region=us-west-2,usage_type=Storage usage_quantity=2239,cost_usd=296.86 1735124163183996928
+cloud_billing,service=EKS,region=eu-central-1,usage_type=Data Warehouse usage_quantity=3105,cost_usd=178.08 1735124163183996928
+cloud_billing,service=S3,region=us-east-1,usage_type=Data Warehouse usage_quantity=507,cost_usd=352.92 1735124163183996928
+cloud_billing,service=RDS,region=us-west-2,usage_type=Function usage_quantity=4236,cost_usd=134.63 1735124163183996928
+cloud_billing,service=RDS,region=us-west-2,usage_type=Storage usage_quantity=2033,cost_usd=164.74 1735124163183996928
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=Database usage_quantity=3600,cost_usd=462.45 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Function usage_quantity=679,cost_usd=497.62 1735124163183996928
+cloud_billing,service=EKS,region=us-west-2,usage_type=Database usage_quantity=1043,cost_usd=382.86 1735124163183996928
+cloud_billing,service=Lambda,region=ap-southeast-1,usage_type=Storage usage_quantity=2403,cost_usd=493.68 1735124163183996928
+cloud_billing,service=EKS,region=eu-central-1,usage_type=Kubernetes usage_quantity=1210,cost_usd=34.1 1735124163183996928
+cloud_billing,service=CloudFront,region=us-east-1,usage_type=Data Warehouse usage_quantity=3048,cost_usd=265.27 1735124163183996928
+cloud_billing,service=Lambda,region=us-east-1,usage_type=NoSQL usage_quantity=163,cost_usd=82.86 1735124163183996928
+cloud_billing,service=DynamoDB,region=us-east-1,usage_type=Function usage_quantity=3233,cost_usd=178.21 1735124163183996928
+cloud_billing,service=RDS,region=ap-northeast-1,usage_type=NoSQL usage_quantity=1009,cost_usd=59.65 1735124163183996928
+cloud_billing,service=RDS,region=us-west-2,usage_type=Networking usage_quantity=2400,cost_usd=195.16 1735124163183996928
+cloud_billing,service=CloudFront,region=eu-central-1,usage_type=Networking usage_quantity=4562,cost_usd=129.2 1735124163183996928
+cloud_billing,service=EKS,region=eu-central-1,usage_type=Compute usage_quantity=2048,cost_usd=39.91 1735124163183996928
+cloud_billing,service=EKS,region=ap-southeast-1,usage_type=Storage usage_quantity=1827,cost_usd=218.94 1735124163183996928
+cloud_billing,service=S3,region=ap-southeast-1,usage_type=Database usage_quantity=1396,cost_usd=108.52 1735124163183996928
+cloud_billing,service=S3,region=eu-central-1,usage_type=Function usage_quantity=3000,cost_usd=239.77 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-northeast-1,usage_type=Kubernetes usage_quantity=1308,cost_usd=481.15 1735124163183996928
+cloud_billing,service=Redshift,region=us-east-1,usage_type=NoSQL usage_quantity=546,cost_usd=312.81 1735124163183996928
+cloud_billing,service=S3,region=ap-southeast-1,usage_type=Kubernetes usage_quantity=903,cost_usd=263.93 1735124163183996928
+cloud_billing,service=EKS,region=ap-southeast-1,usage_type=Storage usage_quantity=3927,cost_usd=49.88 1735124163183996928
+cloud_billing,service=EKS,region=ap-southeast-1,usage_type=Database usage_quantity=3518,cost_usd=91.23 1735124163183996928
+cloud_billing,service=S3,region=sa-east-1,usage_type=Function usage_quantity=3502,cost_usd=208.32 1735124163183996928
+cloud_billing,service=Lambda,region=sa-east-1,usage_type=Kubernetes usage_quantity=2247,cost_usd=206.56 1735124163183996928
+cloud_billing,service=CloudFront,region=sa-east-1,usage_type=Data Warehouse usage_quantity=2503,cost_usd=431.16 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Compute usage_quantity=2563,cost_usd=481.39 1735124163183996928
+cloud_billing,service=EC2,region=us-west-2,usage_type=Database usage_quantity=3754,cost_usd=180.86 1735124163183996928
+cloud_billing,service=DynamoDB,region=sa-east-1,usage_type=Database usage_quantity=1418,cost_usd=391.86 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-northeast-1,usage_type=NoSQL usage_quantity=4419,cost_usd=219.57 1735124163183996928
+cloud_billing,service=RDS,region=ap-northeast-1,usage_type=Data Warehouse usage_quantity=983,cost_usd=254.32 1735124163183996928
+cloud_billing,service=EC2,region=ap-northeast-1,usage_type=Kubernetes usage_quantity=4995,cost_usd=381.42 1735124163183996928
+cloud_billing,service=RDS,region=us-west-2,usage_type=Storage usage_quantity=1706,cost_usd=213.92 1735124163183996928
+cloud_billing,service=EC2,region=us-east-1,usage_type=Function usage_quantity=2520,cost_usd=473.22 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-northeast-1,usage_type=Database usage_quantity=4162,cost_usd=221.97 1735124163183996928
+cloud_billing,service=RDS,region=ap-southeast-1,usage_type=Data Warehouse usage_quantity=4320,cost_usd=487.6 1735124163183996928
+cloud_billing,service=EKS,region=us-west-2,usage_type=NoSQL usage_quantity=4513,cost_usd=130.6 1735124163183996928
+cloud_billing,service=RDS,region=eu-central-1,usage_type=Networking usage_quantity=2663,cost_usd=288.54 1735124163183996928
+cloud_billing,service=EC2,region=ap-southeast-1,usage_type=Networking usage_quantity=494,cost_usd=210.66 1735124163183996928
+cloud_billing,service=EKS,region=us-west-2,usage_type=NoSQL usage_quantity=441,cost_usd=292.3 1735124163183996928
+cloud_billing,service=DynamoDB,region=eu-central-1,usage_type=Networking usage_quantity=2156,cost_usd=268.31 1735124163183996928
+cloud_billing,service=Redshift,region=sa-east-1,usage_type=Kubernetes usage_quantity=2352,cost_usd=359.48 1735124163183996928
+cloud_billing,service=Lambda,region=us-east-1,usage_type=Database usage_quantity=245,cost_usd=261.36 1735124163183996928
+cloud_billing,service=Lambda,region=eu-central-1,usage_type=Data Warehouse usage_quantity=1706,cost_usd=163.83 1735124163183996928
+cloud_billing,service=S3,region=ap-northeast-1,usage_type=Networking usage_quantity=1866,cost_usd=155.92 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-northeast-1,usage_type=Storage usage_quantity=4709,cost_usd=29.48 1735124163183996928
+cloud_billing,service=S3,region=us-east-1,usage_type=Storage usage_quantity=3214,cost_usd=77.08 1735124163183996928
+cloud_billing,service=EKS,region=eu-central-1,usage_type=Compute usage_quantity=2595,cost_usd=322.81 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Function usage_quantity=4399,cost_usd=133.48 1735124163183996928
+cloud_billing,service=RDS,region=sa-east-1,usage_type=Database usage_quantity=2423,cost_usd=254.8 1735124163183996928
+cloud_billing,service=Lambda,region=eu-central-1,usage_type=Networking usage_quantity=2406,cost_usd=432.42 1735124163183996928
+cloud_billing,service=EC2,region=ap-northeast-1,usage_type=NoSQL usage_quantity=3795,cost_usd=369.91 1735124163183996928
+cloud_billing,service=Lambda,region=eu-central-1,usage_type=Database usage_quantity=1863,cost_usd=38.56 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=NoSQL usage_quantity=1935,cost_usd=293.16 1735124163183996928
+cloud_billing,service=S3,region=us-east-1,usage_type=Function usage_quantity=235,cost_usd=236.4 1735124163183996928
+cloud_billing,service=Redshift,region=us-east-1,usage_type=Data Warehouse usage_quantity=2290,cost_usd=247.31 1735124163183996928
+cloud_billing,service=Redshift,region=ap-northeast-1,usage_type=NoSQL usage_quantity=1544,cost_usd=45.3 1735124163183996928
+cloud_billing,service=Lambda,region=sa-east-1,usage_type=Storage usage_quantity=1980,cost_usd=167.4 1735124163183996928
+cloud_billing,service=EC2,region=ap-northeast-1,usage_type=Storage usage_quantity=1127,cost_usd=392.15 1735124163183996928
+cloud_billing,service=Redshift,region=us-west-2,usage_type=Compute usage_quantity=3475,cost_usd=325.09 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Networking usage_quantity=3942,cost_usd=444.97 1735124163183996928
+cloud_billing,service=Redshift,region=ap-northeast-1,usage_type=Networking usage_quantity=3863,cost_usd=334.58 1735124163183996928
+cloud_billing,service=Lambda,region=ap-northeast-1,usage_type=Kubernetes usage_quantity=1839,cost_usd=261.8 1735124163183996928
+cloud_billing,service=Redshift,region=us-west-2,usage_type=Function usage_quantity=128,cost_usd=277.43 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-northeast-1,usage_type=Compute usage_quantity=3391,cost_usd=19.38 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-southeast-1,usage_type=Database usage_quantity=1027,cost_usd=492.06 1735124163183996928
+cloud_billing,service=EC2,region=us-east-1,usage_type=Storage usage_quantity=3499,cost_usd=378.53 1735124163183996928
+cloud_billing,service=EKS,region=us-west-2,usage_type=Compute usage_quantity=1079,cost_usd=242.68 1735124163183996928
+cloud_billing,service=EKS,region=eu-central-1,usage_type=Data Warehouse usage_quantity=4285,cost_usd=49.5 1735124163183996928
+cloud_billing,service=Lambda,region=ap-northeast-1,usage_type=Data Warehouse usage_quantity=3543,cost_usd=10.72 1735124163183996928
+cloud_billing,service=EC2,region=us-west-2,usage_type=Networking usage_quantity=3086,cost_usd=125.42 1735124163183996928
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=Kubernetes usage_quantity=4548,cost_usd=23.69 1735124163183996928
+cloud_billing,service=RDS,region=ap-northeast-1,usage_type=Storage usage_quantity=4737,cost_usd=96.6 1735124163183996928
+cloud_billing,service=Redshift,region=us-east-1,usage_type=Data Warehouse usage_quantity=4651,cost_usd=417.97 1735124163183996928
+cloud_billing,service=Lambda,region=us-east-1,usage_type=Compute usage_quantity=4669,cost_usd=325.11 1735124163183996928
+cloud_billing,service=RDS,region=ap-southeast-1,usage_type=Data Warehouse usage_quantity=3266,cost_usd=220.08 1735124163183996928
+cloud_billing,service=S3,region=ap-northeast-1,usage_type=Data Warehouse usage_quantity=2035,cost_usd=268.52 1735124163183996928
+cloud_billing,service=EKS,region=us-east-1,usage_type=Data Warehouse usage_quantity=899,cost_usd=439.83 1735124163183996928
+cloud_billing,service=EC2,region=us-east-1,usage_type=Networking usage_quantity=2831,cost_usd=426.35 1735124163183996928
+cloud_billing,service=EKS,region=ap-northeast-1,usage_type=Function usage_quantity=4023,cost_usd=455.96 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-northeast-1,usage_type=Storage usage_quantity=1835,cost_usd=70.34 1735124163183996928
+cloud_billing,service=RDS,region=ap-northeast-1,usage_type=Database usage_quantity=3130,cost_usd=321.03 1735124163183996928
+cloud_billing,service=RDS,region=ap-northeast-1,usage_type=Database usage_quantity=4297,cost_usd=181.4 1735124163183996928
+cloud_billing,service=EC2,region=sa-east-1,usage_type=Compute usage_quantity=3661,cost_usd=50.43 1735124163183996928
+cloud_billing,service=CloudFront,region=us-east-1,usage_type=Database usage_quantity=4859,cost_usd=199.75 1735124163183996928
+cloud_billing,service=EC2,region=eu-central-1,usage_type=Kubernetes usage_quantity=704,cost_usd=127.18 1735124163183996928
+cloud_billing,service=DynamoDB,region=us-east-1,usage_type=Storage usage_quantity=2874,cost_usd=197.3 1735124163183996928
+cloud_billing,service=Redshift,region=eu-central-1,usage_type=Function usage_quantity=1105,cost_usd=399.02 1735124163183996928
+cloud_billing,service=RDS,region=us-east-1,usage_type=NoSQL usage_quantity=4101,cost_usd=302.6 1735124163183996928
+cloud_billing,service=Lambda,region=ap-southeast-1,usage_type=Storage usage_quantity=4199,cost_usd=173.18 1735124163183996928
+cloud_billing,service=CloudFront,region=us-east-1,usage_type=Kubernetes usage_quantity=3670,cost_usd=84.3 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-northeast-1,usage_type=Database usage_quantity=4204,cost_usd=309.23 1735124163183996928
+cloud_billing,service=RDS,region=us-west-2,usage_type=Database usage_quantity=4029,cost_usd=449.54 1735124163183996928
+cloud_billing,service=EC2,region=ap-southeast-1,usage_type=Compute usage_quantity=2254,cost_usd=100.76 1735124163183996928
+cloud_billing,service=Redshift,region=ap-northeast-1,usage_type=NoSQL usage_quantity=1576,cost_usd=280.78 1735124163183996928
+cloud_billing,service=EKS,region=ap-southeast-1,usage_type=Storage usage_quantity=3997,cost_usd=252.67 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Function usage_quantity=3607,cost_usd=59.26 1735124163183996928
+cloud_billing,service=CloudFront,region=us-east-1,usage_type=Database usage_quantity=1297,cost_usd=413.37 1735124163183996928
+cloud_billing,service=Redshift,region=eu-central-1,usage_type=Compute usage_quantity=4679,cost_usd=472.19 1735124163183996928
+cloud_billing,service=CloudFront,region=eu-central-1,usage_type=NoSQL usage_quantity=1288,cost_usd=18.17 1735124163183996928
+cloud_billing,service=Lambda,region=us-west-2,usage_type=Compute usage_quantity=2660,cost_usd=265.72 1735124163183996928
+cloud_billing,service=CloudFront,region=eu-central-1,usage_type=NoSQL usage_quantity=4330,cost_usd=436.11 1735124163183996928
+cloud_billing,service=Lambda,region=us-west-2,usage_type=NoSQL usage_quantity=3305,cost_usd=49.06 1735124163183996928
+cloud_billing,service=Redshift,region=ap-northeast-1,usage_type=Kubernetes usage_quantity=776,cost_usd=228.57 1735124163183996928
+cloud_billing,service=Redshift,region=eu-central-1,usage_type=Function usage_quantity=4239,cost_usd=181.66 1735124163183996928
+cloud_billing,service=EKS,region=us-west-2,usage_type=Function usage_quantity=1343,cost_usd=427.61 1735124163183996928
+cloud_billing,service=S3,region=us-west-2,usage_type=Networking usage_quantity=3983,cost_usd=368.04 1735124163183996928
+cloud_billing,service=S3,region=us-west-2,usage_type=Database usage_quantity=3158,cost_usd=230.87 1735124163183996928
+cloud_billing,service=EKS,region=us-west-2,usage_type=Database usage_quantity=4595,cost_usd=99.51 1735124163183996928
+cloud_billing,service=Redshift,region=us-west-2,usage_type=Data Warehouse usage_quantity=1130,cost_usd=57.91 1735124163183996928
+cloud_billing,service=EKS,region=ap-southeast-1,usage_type=NoSQL usage_quantity=1835,cost_usd=463.27 1735124163183996928
+cloud_billing,service=EC2,region=ap-northeast-1,usage_type=NoSQL usage_quantity=1082,cost_usd=189.95 1735124163183996928
+cloud_billing,service=CloudFront,region=sa-east-1,usage_type=Compute usage_quantity=270,cost_usd=439.34 1735124163183996928
+cloud_billing,service=Redshift,region=sa-east-1,usage_type=Database usage_quantity=3168,cost_usd=263.03 1735124163183996928
+cloud_billing,service=Lambda,region=us-east-1,usage_type=Function usage_quantity=3273,cost_usd=47.13 1735124163183996928
+cloud_billing,service=DynamoDB,region=eu-central-1,usage_type=Networking usage_quantity=4497,cost_usd=202.78 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-southeast-1,usage_type=Function usage_quantity=1180,cost_usd=388.6 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-southeast-1,usage_type=Storage usage_quantity=1040,cost_usd=89.29 1735124163183996928
+cloud_billing,service=EC2,region=sa-east-1,usage_type=Compute usage_quantity=1511,cost_usd=460.37 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-southeast-1,usage_type=Function usage_quantity=936,cost_usd=33.89 1735124163183996928
+cloud_billing,service=EKS,region=ap-southeast-1,usage_type=Storage usage_quantity=3589,cost_usd=246.36 1735124163183996928
+cloud_billing,service=S3,region=ap-northeast-1,usage_type=Function usage_quantity=2758,cost_usd=133.55 1735124163183996928
+cloud_billing,service=RDS,region=ap-northeast-1,usage_type=Function usage_quantity=3519,cost_usd=316.83 1735124163183996928
+cloud_billing,service=S3,region=sa-east-1,usage_type=NoSQL usage_quantity=3919,cost_usd=475.72 1735124163183996928
+cloud_billing,service=RDS,region=ap-northeast-1,usage_type=Kubernetes usage_quantity=825,cost_usd=333.43 1735124163183996928
+cloud_billing,service=Lambda,region=sa-east-1,usage_type=Database usage_quantity=3393,cost_usd=104.1 1735124163183996928
+cloud_billing,service=RDS,region=sa-east-1,usage_type=NoSQL usage_quantity=2908,cost_usd=308.71 1735124163183996928
+cloud_billing,service=EC2,region=ap-southeast-1,usage_type=Networking usage_quantity=1884,cost_usd=229.16 1735124163183996928
+cloud_billing,service=EC2,region=us-west-2,usage_type=Database usage_quantity=205,cost_usd=158.48 1735124163183996928
+cloud_billing,service=Redshift,region=sa-east-1,usage_type=Kubernetes usage_quantity=2536,cost_usd=45.9 1735124163183996928
+cloud_billing,service=EC2,region=sa-east-1,usage_type=Networking usage_quantity=650,cost_usd=272.07 1735124163183996928
+cloud_billing,service=EC2,region=ap-northeast-1,usage_type=Storage usage_quantity=4748,cost_usd=394.62 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-southeast-1,usage_type=Storage usage_quantity=1889,cost_usd=51.89 1735124163183996928
+cloud_billing,service=DynamoDB,region=ap-northeast-1,usage_type=Data Warehouse usage_quantity=727,cost_usd=75.7 1735124163183996928
+cloud_billing,service=DynamoDB,region=eu-central-1,usage_type=Networking usage_quantity=902,cost_usd=476.71 1735124163183996928
+cloud_billing,service=RDS,region=ap-northeast-1,usage_type=Data Warehouse usage_quantity=1201,cost_usd=396.94 1735124163183996928
+cloud_billing,service=EKS,region=us-west-2,usage_type=Kubernetes usage_quantity=796,cost_usd=335.75 1735124163183996928
+cloud_billing,service=Redshift,region=eu-central-1,usage_type=NoSQL usage_quantity=3654,cost_usd=273.2 1735124163183996928
+cloud_billing,service=S3,region=us-east-1,usage_type=Networking usage_quantity=3598,cost_usd=58.63 1735124163183996928
+cloud_billing,service=DynamoDB,region=eu-central-1,usage_type=Data Warehouse usage_quantity=1853,cost_usd=219.38 1735124163183996928
+cloud_billing,service=CloudFront,region=ap-northeast-1,usage_type=Data Warehouse usage_quantity=4823,cost_usd=320.68 1735124163183996928
+cloud_billing,service=CloudFront,region=sa-east-1,usage_type=Compute usage_quantity=4389,cost_usd=286.53 1735124163183996928
+cloud_billing,service=RDS,region=ap-southeast-1,usage_type=Function usage_quantity=1840,cost_usd=99.14 1735124163183996928
+cloud_billing,service=Lambda,region=ap-southeast-1,usage_type=Data Warehouse usage_quantity=3378,cost_usd=142.28 1735124163183996928
+cloud_billing,service=Redshift,region=ap-northeast-1,usage_type=NoSQL usage_quantity=493,cost_usd=94.49 1735124163183996928
+cloud_billing,service=Lambda,region=eu-central-1,usage_type=Kubernetes usage_quantity=4588,cost_usd=326.94 1735124163183996928
+cloud_billing,service=DynamoDB,region=sa-east-1,usage_type=Compute usage_quantity=3985,cost_usd=487.65 1735124163183996928
+cloud_billing,service=S3,region=us-west-2,usage_type=Compute usage_quantity=2946,cost_usd=347.72 1735124163183996928
+cloud_billing,service=Lambda,region=ap-northeast-1,usage_type=Database usage_quantity=3202,cost_usd=259.5 1735124163183996928
+cloud_billing,service=Lambda,region=ap-northeast-1,usage_type=NoSQL usage_quantity=774,cost_usd=212.05 1735124163183996928
+cloud_billing,service=EC2,region=ap-northeast-1,usage_type=NoSQL usage_quantity=2874,cost_usd=208.8 1735124163183996928
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=Kubernetes usage_quantity=359,cost_usd=369.44 1735124163183996928
+cloud_billing,service=S3,region=eu-central-1,usage_type=Database usage_quantity=3121,cost_usd=180.8 1735124163183996928
+cloud_billing,service=EKS,region=ap-southeast-1,usage_type=Data Warehouse usage_quantity=3598,cost_usd=30.2 1735124163183996928
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=Function usage_quantity=702,cost_usd=326.74 1735124163183996928
+cloud_billing,service=EC2,region=us-east-1,usage_type=Storage usage_quantity=4874,cost_usd=74.26 1735124163183996928
+cloud_billing,service=Redshift,region=sa-east-1,usage_type=Compute usage_quantity=3394,cost_usd=369.83 1735124163183996928
+cloud_billing,service=RDS,region=ap-southeast-1,usage_type=Networking usage_quantity=4465,cost_usd=211.57 1735124163183996928
+cloud_billing,service=EC2,region=eu-central-1,usage_type=Function usage_quantity=2932,cost_usd=196.81 1735124163183996928
+cloud_billing,service=EC2,region=us-west-2,usage_type=Networking usage_quantity=979,cost_usd=158.39 1735124163183996928
+cloud_billing,service=Lambda,region=ap-southeast-1,usage_type=NoSQL usage_quantity=1825,cost_usd=384.89 1735124163183996928
+cloud_billing,service=EKS,region=ap-southeast-1,usage_type=NoSQL usage_quantity=1854,cost_usd=21.71 1735124163183996928
+cloud_billing,service=Lambda,region=us-east-1,usage_type=Data Warehouse usage_quantity=574,cost_usd=378.87 1735124163183996928
+cloud_billing,service=CloudFront,region=us-west-2,usage_type=Function usage_quantity=2014,cost_usd=258.6 1735124163183996928
+cloud_billing,service=Lambda,region=ap-northeast-1,usage_type=Compute usage_quantity=2955,cost_usd=484.52 1735124163183996928
+cloud_billing,service=Redshift,region=ap-southeast-1,usage_type=Storage usage_quantity=3669,cost_usd=185.51 1735124163183996928
+cloud_billing,service=S3,region=ap-northeast-1,usage_type=Storage usage_quantity=1930,cost_usd=195.2 1735124163183996928
+cloud_billing,service=EKS,region=ap-southeast-1,usage_type=Networking usage_quantity=4242,cost_usd=214.63 1735124163183996928
+cloud_billing,service=DynamoDB,region=sa-east-1,usage_type=Kubernetes usage_quantity=2995,cost_usd=261.75 1735124163183996928
+cloud_billing,service=CloudFront,region=eu-central-1,usage_type=Data Warehouse usage_quantity=1000,cost_usd=427.46 1735124163183996928
+cloud_billing,service=DynamoDB,region=eu-central-1,usage_type=Networking usage_quantity=3973,cost_usd=493.99 1735124163183996928
+cloud_billing,service=S3,region=ap-southeast-1,usage_type=Function usage_quantity=2734,cost_usd=309.9 1735124163183996928
+cloud_billing,service=RDS,region=us-west-2,usage_type=Networking usage_quantity=2749,cost_usd=320.16 1735124163183996928

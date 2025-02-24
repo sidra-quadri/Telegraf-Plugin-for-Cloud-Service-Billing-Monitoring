@@ -1,0 +1,501 @@
+Billing_ID,Service,Usage_Type,Usage_Quantity,Cost_USD,Region,Billing_Period_Start,Billing_Period_End,Currency
+1,Lambda,Networking,3358,194.83,ap-northeast-1,2024-12-01,2024-12-31,USD
+2,Lambda,Storage,1799,202.72,sa-east-1,2024-12-01,2024-12-31,USD
+3,Lambda,Networking,2138,168.35,us-east-1,2024-12-01,2024-12-31,USD
+4,Redshift,Kubernetes,1516,43.1,us-west-2,2024-12-01,2024-12-31,USD
+5,CloudFront,Kubernetes,3117,357.42,ap-southeast-1,2024-12-01,2024-12-31,USD
+6,Redshift,Function,4524,416.93,ap-southeast-1,2024-12-01,2024-12-31,USD
+7,Lambda,Storage,2729,209.13,sa-east-1,2024-12-01,2024-12-31,USD
+8,RDS,Storage,4101,332.04,us-west-2,2024-12-01,2024-12-31,USD
+9,CloudFront,Kubernetes,3694,394.47,sa-east-1,2024-12-01,2024-12-31,USD
+10,S3,Compute,960,272.66,eu-central-1,2024-12-01,2024-12-31,USD
+11,RDS,Storage,1068,156.12,sa-east-1,2024-12-01,2024-12-31,USD
+12,S3,Compute,3642,426.41,us-east-1,2024-12-01,2024-12-31,USD
+13,EC2,Kubernetes,4593,255.68,us-west-2,2024-12-01,2024-12-31,USD
+14,Lambda,Database,2809,191.1,eu-central-1,2024-12-01,2024-12-31,USD
+15,Redshift,Compute,4354,137.6,us-east-1,2024-12-01,2024-12-31,USD
+16,RDS,Compute,186,338.84,eu-central-1,2024-12-01,2024-12-31,USD
+17,Redshift,Kubernetes,4160,261.06,ap-northeast-1,2024-12-01,2024-12-31,USD
+18,Redshift,Storage,3729,188.01,ap-southeast-1,2024-12-01,2024-12-31,USD
+19,Redshift,Kubernetes,3988,137.88,ap-southeast-1,2024-12-01,2024-12-31,USD
+20,RDS,Database,4635,180.96,us-west-2,2024-12-01,2024-12-31,USD
+21,EKS,Compute,101,84.78,ap-northeast-1,2024-12-01,2024-12-31,USD
+22,RDS,Networking,1070,261.5,us-west-2,2024-12-01,2024-12-31,USD
+23,Lambda,NoSQL,4132,47.41,sa-east-1,2024-12-01,2024-12-31,USD
+24,DynamoDB,Kubernetes,3131,161.89,ap-southeast-1,2024-12-01,2024-12-31,USD
+25,EKS,Data Warehouse,2457,225.68,eu-central-1,2024-12-01,2024-12-31,USD
+26,S3,NoSQL,2243,397.33,eu-central-1,2024-12-01,2024-12-31,USD
+27,EC2,Kubernetes,2991,352.07,sa-east-1,2024-12-01,2024-12-31,USD
+28,EKS,NoSQL,1669,203.6,ap-northeast-1,2024-12-01,2024-12-31,USD
+29,RDS,Function,3361,351.56,us-west-2,2024-12-01,2024-12-31,USD
+30,RDS,Storage,3753,362.98,eu-central-1,2024-12-01,2024-12-31,USD
+31,S3,Function,249,340.15,ap-southeast-1,2024-12-01,2024-12-31,USD
+32,CloudFront,Compute,1789,153.27,us-east-1,2024-12-01,2024-12-31,USD
+33,Redshift,Kubernetes,2112,213.76,us-west-2,2024-12-01,2024-12-31,USD
+34,CloudFront,NoSQL,3213,192.29,ap-northeast-1,2024-12-01,2024-12-31,USD
+35,CloudFront,Compute,1487,31.86,us-east-1,2024-12-01,2024-12-31,USD
+36,DynamoDB,Kubernetes,166,285.39,us-west-2,2024-12-01,2024-12-31,USD
+37,S3,NoSQL,554,313.09,us-west-2,2024-12-01,2024-12-31,USD
+38,CloudFront,Function,1039,58.46,ap-southeast-1,2024-12-01,2024-12-31,USD
+39,RDS,Kubernetes,2251,471.05,us-west-2,2024-12-01,2024-12-31,USD
+40,RDS,Function,3582,354.4,sa-east-1,2024-12-01,2024-12-31,USD
+41,EC2,Storage,2834,108.61,us-west-2,2024-12-01,2024-12-31,USD
+42,Redshift,Storage,2413,347.93,us-west-2,2024-12-01,2024-12-31,USD
+43,DynamoDB,Networking,3653,35.48,ap-northeast-1,2024-12-01,2024-12-31,USD
+44,DynamoDB,Database,2685,298.1,ap-northeast-1,2024-12-01,2024-12-31,USD
+45,Lambda,Kubernetes,4234,54.29,eu-central-1,2024-12-01,2024-12-31,USD
+46,EKS,Compute,972,333.38,us-east-1,2024-12-01,2024-12-31,USD
+47,CloudFront,Compute,4977,230.75,us-west-2,2024-12-01,2024-12-31,USD
+48,S3,Kubernetes,2968,275.55,ap-southeast-1,2024-12-01,2024-12-31,USD
+49,Redshift,Data Warehouse,2613,178.68,sa-east-1,2024-12-01,2024-12-31,USD
+50,Lambda,NoSQL,782,457.46,ap-northeast-1,2024-12-01,2024-12-31,USD
+51,RDS,Networking,318,332.65,eu-central-1,2024-12-01,2024-12-31,USD
+52,EC2,Database,3660,22.83,ap-northeast-1,2024-12-01,2024-12-31,USD
+53,S3,Data Warehouse,747,388.81,eu-central-1,2024-12-01,2024-12-31,USD
+54,RDS,Storage,2787,381.0,eu-central-1,2024-12-01,2024-12-31,USD
+55,Lambda,Compute,2740,174.97,sa-east-1,2024-12-01,2024-12-31,USD
+56,Lambda,Database,4827,213.6,us-east-1,2024-12-01,2024-12-31,USD
+57,Lambda,Networking,3421,276.45,ap-southeast-1,2024-12-01,2024-12-31,USD
+58,S3,NoSQL,737,54.42,eu-central-1,2024-12-01,2024-12-31,USD
+59,DynamoDB,NoSQL,4657,479.96,sa-east-1,2024-12-01,2024-12-31,USD
+60,RDS,Function,1064,385.17,us-east-1,2024-12-01,2024-12-31,USD
+61,RDS,Networking,144,282.69,ap-northeast-1,2024-12-01,2024-12-31,USD
+62,RDS,Networking,1452,175.72,us-east-1,2024-12-01,2024-12-31,USD
+63,DynamoDB,NoSQL,342,328.67,us-east-1,2024-12-01,2024-12-31,USD
+64,RDS,Data Warehouse,1280,68.62,us-east-1,2024-12-01,2024-12-31,USD
+65,EKS,Function,2315,449.34,eu-central-1,2024-12-01,2024-12-31,USD
+66,EKS,NoSQL,2078,86.75,ap-northeast-1,2024-12-01,2024-12-31,USD
+67,EC2,Data Warehouse,593,361.25,eu-central-1,2024-12-01,2024-12-31,USD
+68,CloudFront,Database,3601,92.45,us-east-1,2024-12-01,2024-12-31,USD
+69,Redshift,NoSQL,919,325.17,sa-east-1,2024-12-01,2024-12-31,USD
+70,Redshift,Networking,3539,486.87,eu-central-1,2024-12-01,2024-12-31,USD
+71,DynamoDB,Database,4389,289.83,sa-east-1,2024-12-01,2024-12-31,USD
+72,RDS,Compute,4684,130.23,eu-central-1,2024-12-01,2024-12-31,USD
+73,Lambda,Storage,4960,249.18,ap-southeast-1,2024-12-01,2024-12-31,USD
+74,S3,Database,1415,337.72,ap-southeast-1,2024-12-01,2024-12-31,USD
+75,Lambda,Kubernetes,2526,419.47,us-east-1,2024-12-01,2024-12-31,USD
+76,RDS,Storage,4861,405.02,us-west-2,2024-12-01,2024-12-31,USD
+77,S3,Kubernetes,3546,443.1,us-west-2,2024-12-01,2024-12-31,USD
+78,EKS,Networking,3663,293.07,ap-northeast-1,2024-12-01,2024-12-31,USD
+79,CloudFront,Function,2410,119.43,eu-central-1,2024-12-01,2024-12-31,USD
+80,EKS,Compute,4699,383.68,us-west-2,2024-12-01,2024-12-31,USD
+81,S3,Networking,908,341.76,sa-east-1,2024-12-01,2024-12-31,USD
+82,Lambda,Database,2244,71.94,ap-southeast-1,2024-12-01,2024-12-31,USD
+83,EC2,Networking,1618,401.77,us-east-1,2024-12-01,2024-12-31,USD
+84,EKS,Database,3015,25.14,eu-central-1,2024-12-01,2024-12-31,USD
+85,RDS,Storage,903,488.21,ap-southeast-1,2024-12-01,2024-12-31,USD
+86,Lambda,Storage,3552,83.88,ap-northeast-1,2024-12-01,2024-12-31,USD
+87,Lambda,Data Warehouse,3500,301.49,ap-northeast-1,2024-12-01,2024-12-31,USD
+88,EKS,NoSQL,418,92.18,ap-northeast-1,2024-12-01,2024-12-31,USD
+89,EKS,Compute,552,448.04,sa-east-1,2024-12-01,2024-12-31,USD
+90,EKS,Kubernetes,2724,335.32,ap-northeast-1,2024-12-01,2024-12-31,USD
+91,DynamoDB,Storage,4335,40.15,us-east-1,2024-12-01,2024-12-31,USD
+92,Lambda,Compute,373,140.22,us-west-2,2024-12-01,2024-12-31,USD
+93,S3,Storage,610,224.43,eu-central-1,2024-12-01,2024-12-31,USD
+94,S3,Compute,2814,413.11,eu-central-1,2024-12-01,2024-12-31,USD
+95,RDS,Storage,2078,234.71,sa-east-1,2024-12-01,2024-12-31,USD
+96,RDS,Compute,4919,172.95,sa-east-1,2024-12-01,2024-12-31,USD
+97,DynamoDB,Compute,1585,340.58,sa-east-1,2024-12-01,2024-12-31,USD
+98,EKS,Function,1800,354.61,ap-northeast-1,2024-12-01,2024-12-31,USD
+99,Redshift,NoSQL,2005,257.63,ap-southeast-1,2024-12-01,2024-12-31,USD
+100,DynamoDB,Storage,4307,467.68,sa-east-1,2024-12-01,2024-12-31,USD
+101,RDS,Networking,972,472.53,eu-central-1,2024-12-01,2024-12-31,USD
+102,DynamoDB,Function,845,236.88,ap-southeast-1,2024-12-01,2024-12-31,USD
+103,Redshift,Data Warehouse,1441,498.47,us-east-1,2024-12-01,2024-12-31,USD
+104,EKS,NoSQL,2986,384.44,us-east-1,2024-12-01,2024-12-31,USD
+105,S3,Compute,2750,102.4,ap-southeast-1,2024-12-01,2024-12-31,USD
+106,Lambda,NoSQL,2250,248.87,us-west-2,2024-12-01,2024-12-31,USD
+107,DynamoDB,Networking,1429,18.52,eu-central-1,2024-12-01,2024-12-31,USD
+108,S3,Function,1931,359.37,ap-northeast-1,2024-12-01,2024-12-31,USD
+109,EC2,Database,4666,458.41,us-east-1,2024-12-01,2024-12-31,USD
+110,EKS,Kubernetes,4490,383.01,us-west-2,2024-12-01,2024-12-31,USD
+111,Redshift,Database,468,183.24,sa-east-1,2024-12-01,2024-12-31,USD
+112,EC2,Storage,3573,461.91,us-west-2,2024-12-01,2024-12-31,USD
+113,Lambda,Data Warehouse,1421,291.24,ap-northeast-1,2024-12-01,2024-12-31,USD
+114,EC2,Function,4962,417.43,us-east-1,2024-12-01,2024-12-31,USD
+115,EC2,Compute,3494,299.37,us-east-1,2024-12-01,2024-12-31,USD
+116,RDS,Function,3685,380.98,ap-northeast-1,2024-12-01,2024-12-31,USD
+117,EKS,Networking,694,420.6,us-west-2,2024-12-01,2024-12-31,USD
+118,CloudFront,Data Warehouse,2787,356.55,ap-southeast-1,2024-12-01,2024-12-31,USD
+119,Redshift,Compute,3541,17.25,eu-central-1,2024-12-01,2024-12-31,USD
+120,RDS,Kubernetes,2123,491.9,sa-east-1,2024-12-01,2024-12-31,USD
+121,S3,Data Warehouse,1534,67.59,ap-northeast-1,2024-12-01,2024-12-31,USD
+122,EC2,Kubernetes,3791,117.62,ap-northeast-1,2024-12-01,2024-12-31,USD
+123,Redshift,Storage,2017,247.92,ap-southeast-1,2024-12-01,2024-12-31,USD
+124,EKS,Function,2556,442.27,eu-central-1,2024-12-01,2024-12-31,USD
+125,Redshift,NoSQL,1486,349.33,us-west-2,2024-12-01,2024-12-31,USD
+126,Lambda,Compute,2464,84.99,us-west-2,2024-12-01,2024-12-31,USD
+127,RDS,Storage,4248,348.44,eu-central-1,2024-12-01,2024-12-31,USD
+128,EKS,Kubernetes,933,395.47,eu-central-1,2024-12-01,2024-12-31,USD
+129,DynamoDB,Function,1381,310.01,us-east-1,2024-12-01,2024-12-31,USD
+130,RDS,Compute,2994,419.82,us-east-1,2024-12-01,2024-12-31,USD
+131,DynamoDB,Storage,4629,265.0,us-east-1,2024-12-01,2024-12-31,USD
+132,EKS,Database,490,450.96,ap-northeast-1,2024-12-01,2024-12-31,USD
+133,Redshift,Networking,2878,301.05,sa-east-1,2024-12-01,2024-12-31,USD
+134,Redshift,Storage,2173,318.01,us-east-1,2024-12-01,2024-12-31,USD
+135,RDS,NoSQL,1695,178.7,sa-east-1,2024-12-01,2024-12-31,USD
+136,S3,Networking,4095,371.35,us-west-2,2024-12-01,2024-12-31,USD
+137,Redshift,Compute,3638,171.11,ap-northeast-1,2024-12-01,2024-12-31,USD
+138,Redshift,Networking,2321,163.21,eu-central-1,2024-12-01,2024-12-31,USD
+139,Redshift,Function,2238,51.91,ap-southeast-1,2024-12-01,2024-12-31,USD
+140,CloudFront,Database,334,169.89,us-east-1,2024-12-01,2024-12-31,USD
+141,EKS,Data Warehouse,2789,437.29,ap-northeast-1,2024-12-01,2024-12-31,USD
+142,Redshift,Kubernetes,4591,184.3,eu-central-1,2024-12-01,2024-12-31,USD
+143,EC2,Database,602,249.17,eu-central-1,2024-12-01,2024-12-31,USD
+144,Lambda,NoSQL,4830,17.3,us-east-1,2024-12-01,2024-12-31,USD
+145,S3,Networking,1911,439.43,sa-east-1,2024-12-01,2024-12-31,USD
+146,RDS,Data Warehouse,2668,442.69,eu-central-1,2024-12-01,2024-12-31,USD
+147,Lambda,Function,1399,376.51,us-west-2,2024-12-01,2024-12-31,USD
+148,Lambda,Storage,1968,235.93,eu-central-1,2024-12-01,2024-12-31,USD
+149,Redshift,Kubernetes,3080,126.3,ap-southeast-1,2024-12-01,2024-12-31,USD
+150,EKS,Data Warehouse,2117,439.56,sa-east-1,2024-12-01,2024-12-31,USD
+151,EC2,Storage,1125,452.69,eu-central-1,2024-12-01,2024-12-31,USD
+152,Lambda,Kubernetes,653,311.6,ap-northeast-1,2024-12-01,2024-12-31,USD
+153,RDS,Compute,1136,467.27,sa-east-1,2024-12-01,2024-12-31,USD
+154,CloudFront,Compute,1232,164.26,us-east-1,2024-12-01,2024-12-31,USD
+155,S3,Networking,3878,268.78,us-west-2,2024-12-01,2024-12-31,USD
+156,Redshift,Function,2103,172.64,sa-east-1,2024-12-01,2024-12-31,USD
+157,Lambda,NoSQL,1198,317.13,ap-southeast-1,2024-12-01,2024-12-31,USD
+158,Lambda,Data Warehouse,698,297.48,us-east-1,2024-12-01,2024-12-31,USD
+159,DynamoDB,NoSQL,2036,164.22,sa-east-1,2024-12-01,2024-12-31,USD
+160,CloudFront,Database,4471,296.23,ap-northeast-1,2024-12-01,2024-12-31,USD
+161,Redshift,Networking,1238,49.21,ap-northeast-1,2024-12-01,2024-12-31,USD
+162,CloudFront,Database,2603,269.77,us-west-2,2024-12-01,2024-12-31,USD
+163,Redshift,NoSQL,4578,380.9,sa-east-1,2024-12-01,2024-12-31,USD
+164,CloudFront,Networking,2478,51.42,us-west-2,2024-12-01,2024-12-31,USD
+165,EKS,Function,3261,114.7,us-east-1,2024-12-01,2024-12-31,USD
+166,EKS,Kubernetes,1825,24.12,sa-east-1,2024-12-01,2024-12-31,USD
+167,CloudFront,Database,348,11.12,us-west-2,2024-12-01,2024-12-31,USD
+168,EC2,Data Warehouse,3459,272.26,ap-southeast-1,2024-12-01,2024-12-31,USD
+169,DynamoDB,Function,3394,56.34,eu-central-1,2024-12-01,2024-12-31,USD
+170,Lambda,Data Warehouse,155,146.94,eu-central-1,2024-12-01,2024-12-31,USD
+171,Redshift,Data Warehouse,759,91.32,ap-southeast-1,2024-12-01,2024-12-31,USD
+172,Redshift,Function,1564,369.28,ap-southeast-1,2024-12-01,2024-12-31,USD
+173,EKS,Database,4936,76.71,sa-east-1,2024-12-01,2024-12-31,USD
+174,RDS,Database,2210,498.1,us-east-1,2024-12-01,2024-12-31,USD
+175,DynamoDB,Kubernetes,2662,232.29,us-east-1,2024-12-01,2024-12-31,USD
+176,EKS,Networking,2889,495.06,ap-southeast-1,2024-12-01,2024-12-31,USD
+177,RDS,Database,4021,267.55,ap-southeast-1,2024-12-01,2024-12-31,USD
+178,DynamoDB,Data Warehouse,3017,278.43,ap-northeast-1,2024-12-01,2024-12-31,USD
+179,S3,Storage,193,367.73,eu-central-1,2024-12-01,2024-12-31,USD
+180,EKS,Kubernetes,796,144.04,us-west-2,2024-12-01,2024-12-31,USD
+181,CloudFront,Networking,4062,359.06,us-west-2,2024-12-01,2024-12-31,USD
+182,EC2,Compute,4447,316.18,eu-central-1,2024-12-01,2024-12-31,USD
+183,EC2,Database,2406,339.29,us-west-2,2024-12-01,2024-12-31,USD
+184,Redshift,Networking,768,182.39,us-west-2,2024-12-01,2024-12-31,USD
+185,S3,Storage,3923,185.16,us-east-1,2024-12-01,2024-12-31,USD
+186,EKS,NoSQL,3981,399.54,sa-east-1,2024-12-01,2024-12-31,USD
+187,Lambda,Function,4354,482.52,sa-east-1,2024-12-01,2024-12-31,USD
+188,CloudFront,Data Warehouse,1019,63.54,sa-east-1,2024-12-01,2024-12-31,USD
+189,CloudFront,Compute,4669,452.81,us-west-2,2024-12-01,2024-12-31,USD
+190,DynamoDB,Kubernetes,2417,136.43,ap-southeast-1,2024-12-01,2024-12-31,USD
+191,EKS,NoSQL,1086,96.98,ap-southeast-1,2024-12-01,2024-12-31,USD
+192,EC2,Data Warehouse,815,341.76,us-east-1,2024-12-01,2024-12-31,USD
+193,CloudFront,Function,3873,360.0,us-west-2,2024-12-01,2024-12-31,USD
+194,Lambda,NoSQL,3351,359.84,ap-southeast-1,2024-12-01,2024-12-31,USD
+195,S3,Database,473,342.32,us-west-2,2024-12-01,2024-12-31,USD
+196,DynamoDB,Kubernetes,4921,80.8,eu-central-1,2024-12-01,2024-12-31,USD
+197,S3,Database,3525,141.98,sa-east-1,2024-12-01,2024-12-31,USD
+198,Lambda,Function,4455,307.19,eu-central-1,2024-12-01,2024-12-31,USD
+199,DynamoDB,Data Warehouse,2836,94.14,ap-southeast-1,2024-12-01,2024-12-31,USD
+200,Redshift,Data Warehouse,1942,364.52,us-west-2,2024-12-01,2024-12-31,USD
+201,CloudFront,Storage,4733,192.91,ap-northeast-1,2024-12-01,2024-12-31,USD
+202,EKS,Data Warehouse,3609,172.2,sa-east-1,2024-12-01,2024-12-31,USD
+203,RDS,Function,4848,275.25,us-east-1,2024-12-01,2024-12-31,USD
+204,DynamoDB,Database,4644,265.78,ap-southeast-1,2024-12-01,2024-12-31,USD
+205,EC2,NoSQL,3900,263.44,eu-central-1,2024-12-01,2024-12-31,USD
+206,Lambda,NoSQL,1085,305.56,ap-southeast-1,2024-12-01,2024-12-31,USD
+207,EKS,Function,1436,172.42,sa-east-1,2024-12-01,2024-12-31,USD
+208,Redshift,Networking,101,125.75,us-east-1,2024-12-01,2024-12-31,USD
+209,EC2,Compute,3843,147.47,eu-central-1,2024-12-01,2024-12-31,USD
+210,EKS,Networking,2311,256.16,eu-central-1,2024-12-01,2024-12-31,USD
+211,DynamoDB,Networking,2082,367.89,us-west-2,2024-12-01,2024-12-31,USD
+212,RDS,Compute,4960,131.24,eu-central-1,2024-12-01,2024-12-31,USD
+213,EKS,Compute,3306,145.15,eu-central-1,2024-12-01,2024-12-31,USD
+214,Redshift,Kubernetes,720,144.76,us-east-1,2024-12-01,2024-12-31,USD
+215,RDS,Database,1595,75.95,us-east-1,2024-12-01,2024-12-31,USD
+216,EC2,Function,1062,453.87,us-west-2,2024-12-01,2024-12-31,USD
+217,RDS,Storage,2011,137.95,us-east-1,2024-12-01,2024-12-31,USD
+218,CloudFront,Data Warehouse,339,265.64,ap-southeast-1,2024-12-01,2024-12-31,USD
+219,Redshift,Kubernetes,4001,68.29,ap-northeast-1,2024-12-01,2024-12-31,USD
+220,EC2,Database,4046,160.15,us-east-1,2024-12-01,2024-12-31,USD
+221,EC2,NoSQL,2080,220.61,ap-southeast-1,2024-12-01,2024-12-31,USD
+222,DynamoDB,Kubernetes,4917,237.84,us-west-2,2024-12-01,2024-12-31,USD
+223,Lambda,Database,2808,123.57,eu-central-1,2024-12-01,2024-12-31,USD
+224,EC2,Compute,1587,225.93,ap-northeast-1,2024-12-01,2024-12-31,USD
+225,DynamoDB,Function,3622,218.88,ap-northeast-1,2024-12-01,2024-12-31,USD
+226,RDS,Database,2521,143.69,us-west-2,2024-12-01,2024-12-31,USD
+227,EKS,NoSQL,3821,309.65,us-east-1,2024-12-01,2024-12-31,USD
+228,Redshift,Networking,3121,96.92,eu-central-1,2024-12-01,2024-12-31,USD
+229,CloudFront,Function,4231,78.24,ap-southeast-1,2024-12-01,2024-12-31,USD
+230,CloudFront,Data Warehouse,295,314.43,ap-northeast-1,2024-12-01,2024-12-31,USD
+231,Redshift,NoSQL,2022,478.06,ap-southeast-1,2024-12-01,2024-12-31,USD
+232,DynamoDB,NoSQL,4430,322.74,ap-southeast-1,2024-12-01,2024-12-31,USD
+233,RDS,Database,3341,311.14,us-east-1,2024-12-01,2024-12-31,USD
+234,Redshift,Networking,4944,19.86,eu-central-1,2024-12-01,2024-12-31,USD
+235,EKS,Data Warehouse,2260,240.9,sa-east-1,2024-12-01,2024-12-31,USD
+236,DynamoDB,NoSQL,4142,145.86,eu-central-1,2024-12-01,2024-12-31,USD
+237,Lambda,Kubernetes,286,314.71,eu-central-1,2024-12-01,2024-12-31,USD
+238,Redshift,Function,4833,33.35,ap-southeast-1,2024-12-01,2024-12-31,USD
+239,RDS,Networking,2008,184.75,ap-northeast-1,2024-12-01,2024-12-31,USD
+240,CloudFront,Kubernetes,2185,215.85,eu-central-1,2024-12-01,2024-12-31,USD
+241,EKS,Storage,2691,368.32,ap-northeast-1,2024-12-01,2024-12-31,USD
+242,S3,Function,1429,204.74,ap-northeast-1,2024-12-01,2024-12-31,USD
+243,S3,Compute,1414,59.98,ap-southeast-1,2024-12-01,2024-12-31,USD
+244,EC2,Kubernetes,4421,366.27,sa-east-1,2024-12-01,2024-12-31,USD
+245,Lambda,Compute,595,166.17,us-east-1,2024-12-01,2024-12-31,USD
+246,DynamoDB,Storage,2533,139.39,us-west-2,2024-12-01,2024-12-31,USD
+247,Lambda,Networking,3190,137.3,us-west-2,2024-12-01,2024-12-31,USD
+248,RDS,Compute,3309,441.2,us-east-1,2024-12-01,2024-12-31,USD
+249,Redshift,Function,2004,190.86,sa-east-1,2024-12-01,2024-12-31,USD
+250,Redshift,Networking,2090,118.64,ap-northeast-1,2024-12-01,2024-12-31,USD
+251,Redshift,Storage,4938,224.22,sa-east-1,2024-12-01,2024-12-31,USD
+252,EC2,NoSQL,4080,490.32,us-west-2,2024-12-01,2024-12-31,USD
+253,EKS,Compute,123,358.4,ap-southeast-1,2024-12-01,2024-12-31,USD
+254,EKS,NoSQL,3733,329.02,ap-northeast-1,2024-12-01,2024-12-31,USD
+255,S3,Kubernetes,2288,281.08,us-west-2,2024-12-01,2024-12-31,USD
+256,EC2,Database,1378,26.82,sa-east-1,2024-12-01,2024-12-31,USD
+257,RDS,Kubernetes,630,352.36,eu-central-1,2024-12-01,2024-12-31,USD
+258,EKS,Networking,1931,221.43,ap-northeast-1,2024-12-01,2024-12-31,USD
+259,DynamoDB,NoSQL,2827,489.92,us-west-2,2024-12-01,2024-12-31,USD
+260,EC2,Data Warehouse,214,280.93,us-east-1,2024-12-01,2024-12-31,USD
+261,Lambda,Data Warehouse,2826,118.0,sa-east-1,2024-12-01,2024-12-31,USD
+262,RDS,Function,3299,58.81,us-east-1,2024-12-01,2024-12-31,USD
+263,Lambda,Data Warehouse,4887,375.72,ap-northeast-1,2024-12-01,2024-12-31,USD
+264,EKS,Data Warehouse,1213,39.4,ap-southeast-1,2024-12-01,2024-12-31,USD
+265,Redshift,Storage,3073,182.47,us-west-2,2024-12-01,2024-12-31,USD
+266,Redshift,NoSQL,475,327.0,sa-east-1,2024-12-01,2024-12-31,USD
+267,CloudFront,Data Warehouse,3784,270.47,us-east-1,2024-12-01,2024-12-31,USD
+268,Redshift,Data Warehouse,3100,154.92,ap-northeast-1,2024-12-01,2024-12-31,USD
+269,DynamoDB,Compute,4989,268.03,sa-east-1,2024-12-01,2024-12-31,USD
+270,S3,Database,4885,55.72,us-west-2,2024-12-01,2024-12-31,USD
+271,Redshift,Database,2696,207.02,sa-east-1,2024-12-01,2024-12-31,USD
+272,RDS,Networking,1115,110.86,eu-central-1,2024-12-01,2024-12-31,USD
+273,S3,Data Warehouse,4103,495.48,us-west-2,2024-12-01,2024-12-31,USD
+274,Lambda,Compute,2275,78.78,us-west-2,2024-12-01,2024-12-31,USD
+275,S3,Networking,1690,295.91,ap-southeast-1,2024-12-01,2024-12-31,USD
+276,DynamoDB,Database,2354,76.9,eu-central-1,2024-12-01,2024-12-31,USD
+277,Redshift,Kubernetes,2084,344.79,us-west-2,2024-12-01,2024-12-31,USD
+278,EC2,Data Warehouse,4756,83.68,ap-southeast-1,2024-12-01,2024-12-31,USD
+279,CloudFront,Data Warehouse,2323,99.04,ap-southeast-1,2024-12-01,2024-12-31,USD
+280,DynamoDB,Function,4028,353.1,sa-east-1,2024-12-01,2024-12-31,USD
+281,CloudFront,NoSQL,930,154.07,eu-central-1,2024-12-01,2024-12-31,USD
+282,S3,Database,4444,11.52,sa-east-1,2024-12-01,2024-12-31,USD
+283,DynamoDB,Function,4555,119.68,ap-northeast-1,2024-12-01,2024-12-31,USD
+284,CloudFront,Compute,134,23.16,eu-central-1,2024-12-01,2024-12-31,USD
+285,S3,Database,2921,425.83,sa-east-1,2024-12-01,2024-12-31,USD
+286,EKS,Database,3728,114.37,eu-central-1,2024-12-01,2024-12-31,USD
+287,Lambda,Compute,1341,388.89,sa-east-1,2024-12-01,2024-12-31,USD
+288,S3,Storage,1538,200.43,ap-southeast-1,2024-12-01,2024-12-31,USD
+289,EC2,Compute,4356,318.03,ap-southeast-1,2024-12-01,2024-12-31,USD
+290,DynamoDB,Database,3343,121.95,eu-central-1,2024-12-01,2024-12-31,USD
+291,EC2,NoSQL,151,140.34,us-east-1,2024-12-01,2024-12-31,USD
+292,Lambda,Database,370,128.36,us-west-2,2024-12-01,2024-12-31,USD
+293,RDS,Compute,3060,330.55,ap-southeast-1,2024-12-01,2024-12-31,USD
+294,EKS,Function,3527,96.33,us-west-2,2024-12-01,2024-12-31,USD
+295,S3,Function,1140,296.46,us-west-2,2024-12-01,2024-12-31,USD
+296,CloudFront,Database,3108,47.47,us-west-2,2024-12-01,2024-12-31,USD
+297,Lambda,Kubernetes,1811,34.32,sa-east-1,2024-12-01,2024-12-31,USD
+298,RDS,Database,4296,140.93,sa-east-1,2024-12-01,2024-12-31,USD
+299,CloudFront,Storage,1889,458.29,ap-northeast-1,2024-12-01,2024-12-31,USD
+300,Redshift,Function,1994,317.81,us-east-1,2024-12-01,2024-12-31,USD
+301,EC2,Networking,475,236.83,us-east-1,2024-12-01,2024-12-31,USD
+302,Lambda,Storage,2189,181.54,sa-east-1,2024-12-01,2024-12-31,USD
+303,RDS,Database,3104,52.92,us-west-2,2024-12-01,2024-12-31,USD
+304,CloudFront,Networking,826,379.24,eu-central-1,2024-12-01,2024-12-31,USD
+305,DynamoDB,Database,1709,74.08,eu-central-1,2024-12-01,2024-12-31,USD
+306,CloudFront,Data Warehouse,3077,200.13,us-east-1,2024-12-01,2024-12-31,USD
+307,DynamoDB,Storage,2419,437.63,ap-southeast-1,2024-12-01,2024-12-31,USD
+308,EC2,Compute,1651,193.26,sa-east-1,2024-12-01,2024-12-31,USD
+309,Redshift,Kubernetes,110,395.07,us-east-1,2024-12-01,2024-12-31,USD
+310,S3,Kubernetes,4296,28.31,sa-east-1,2024-12-01,2024-12-31,USD
+311,CloudFront,Storage,4327,289.0,ap-southeast-1,2024-12-01,2024-12-31,USD
+312,S3,Data Warehouse,2730,123.99,sa-east-1,2024-12-01,2024-12-31,USD
+313,Redshift,NoSQL,3559,38.63,ap-southeast-1,2024-12-01,2024-12-31,USD
+314,Lambda,Database,3904,304.53,ap-southeast-1,2024-12-01,2024-12-31,USD
+315,CloudFront,Kubernetes,924,172.24,ap-northeast-1,2024-12-01,2024-12-31,USD
+316,Lambda,Database,894,326.38,sa-east-1,2024-12-01,2024-12-31,USD
+317,EKS,Compute,4006,414.78,us-east-1,2024-12-01,2024-12-31,USD
+318,CloudFront,Function,3946,338.76,us-west-2,2024-12-01,2024-12-31,USD
+319,CloudFront,Database,807,395.24,eu-central-1,2024-12-01,2024-12-31,USD
+320,EC2,Kubernetes,999,205.85,sa-east-1,2024-12-01,2024-12-31,USD
+321,RDS,Database,3576,388.06,us-west-2,2024-12-01,2024-12-31,USD
+322,EKS,Function,2755,327.57,us-west-2,2024-12-01,2024-12-31,USD
+323,Lambda,NoSQL,4801,413.09,us-west-2,2024-12-01,2024-12-31,USD
+324,CloudFront,Data Warehouse,4208,413.42,sa-east-1,2024-12-01,2024-12-31,USD
+325,EC2,Kubernetes,2131,146.69,us-east-1,2024-12-01,2024-12-31,USD
+326,EKS,Storage,2239,296.86,us-west-2,2024-12-01,2024-12-31,USD
+327,EKS,Data Warehouse,3105,178.08,eu-central-1,2024-12-01,2024-12-31,USD
+328,S3,Data Warehouse,507,352.92,us-east-1,2024-12-01,2024-12-31,USD
+329,RDS,Function,4236,134.63,us-west-2,2024-12-01,2024-12-31,USD
+330,RDS,Storage,2033,164.74,us-west-2,2024-12-01,2024-12-31,USD
+331,Redshift,Database,3600,462.45,ap-southeast-1,2024-12-01,2024-12-31,USD
+332,CloudFront,Function,679,497.62,us-west-2,2024-12-01,2024-12-31,USD
+333,EKS,Database,1043,382.86,us-west-2,2024-12-01,2024-12-31,USD
+334,Lambda,Storage,2403,493.68,ap-southeast-1,2024-12-01,2024-12-31,USD
+335,EKS,Kubernetes,1210,34.1,eu-central-1,2024-12-01,2024-12-31,USD
+336,CloudFront,Data Warehouse,3048,265.27,us-east-1,2024-12-01,2024-12-31,USD
+337,Lambda,NoSQL,163,82.86,us-east-1,2024-12-01,2024-12-31,USD
+338,DynamoDB,Function,3233,178.21,us-east-1,2024-12-01,2024-12-31,USD
+339,RDS,NoSQL,1009,59.65,ap-northeast-1,2024-12-01,2024-12-31,USD
+340,RDS,Networking,2400,195.16,us-west-2,2024-12-01,2024-12-31,USD
+341,CloudFront,Networking,4562,129.2,eu-central-1,2024-12-01,2024-12-31,USD
+342,EKS,Compute,2048,39.91,eu-central-1,2024-12-01,2024-12-31,USD
+343,EKS,Storage,1827,218.94,ap-southeast-1,2024-12-01,2024-12-31,USD
+344,S3,Database,1396,108.52,ap-southeast-1,2024-12-01,2024-12-31,USD
+345,S3,Function,3000,239.77,eu-central-1,2024-12-01,2024-12-31,USD
+346,CloudFront,Kubernetes,1308,481.15,ap-northeast-1,2024-12-01,2024-12-31,USD
+347,Redshift,NoSQL,546,312.81,us-east-1,2024-12-01,2024-12-31,USD
+348,S3,Kubernetes,903,263.93,ap-southeast-1,2024-12-01,2024-12-31,USD
+349,EKS,Storage,3927,49.88,ap-southeast-1,2024-12-01,2024-12-31,USD
+350,EKS,Database,3518,91.23,ap-southeast-1,2024-12-01,2024-12-31,USD
+351,S3,Function,3502,208.32,sa-east-1,2024-12-01,2024-12-31,USD
+352,Lambda,Kubernetes,2247,206.56,sa-east-1,2024-12-01,2024-12-31,USD
+353,CloudFront,Data Warehouse,2503,431.16,sa-east-1,2024-12-01,2024-12-31,USD
+354,CloudFront,Compute,2563,481.39,us-west-2,2024-12-01,2024-12-31,USD
+355,EC2,Database,3754,180.86,us-west-2,2024-12-01,2024-12-31,USD
+356,DynamoDB,Database,1418,391.86,sa-east-1,2024-12-01,2024-12-31,USD
+357,CloudFront,NoSQL,4419,219.57,ap-northeast-1,2024-12-01,2024-12-31,USD
+358,RDS,Data Warehouse,983,254.32,ap-northeast-1,2024-12-01,2024-12-31,USD
+359,EC2,Kubernetes,4995,381.42,ap-northeast-1,2024-12-01,2024-12-31,USD
+360,RDS,Storage,1706,213.92,us-west-2,2024-12-01,2024-12-31,USD
+361,EC2,Function,2520,473.22,us-east-1,2024-12-01,2024-12-31,USD
+362,CloudFront,Database,4162,221.97,ap-northeast-1,2024-12-01,2024-12-31,USD
+363,RDS,Data Warehouse,4320,487.6,ap-southeast-1,2024-12-01,2024-12-31,USD
+364,EKS,NoSQL,4513,130.6,us-west-2,2024-12-01,2024-12-31,USD
+365,RDS,Networking,2663,288.54,eu-central-1,2024-12-01,2024-12-31,USD
+366,EC2,Networking,494,210.66,ap-southeast-1,2024-12-01,2024-12-31,USD
+367,EKS,NoSQL,441,292.3,us-west-2,2024-12-01,2024-12-31,USD
+368,DynamoDB,Networking,2156,268.31,eu-central-1,2024-12-01,2024-12-31,USD
+369,Redshift,Kubernetes,2352,359.48,sa-east-1,2024-12-01,2024-12-31,USD
+370,Lambda,Database,245,261.36,us-east-1,2024-12-01,2024-12-31,USD
+371,Lambda,Data Warehouse,1706,163.83,eu-central-1,2024-12-01,2024-12-31,USD
+372,S3,Networking,1866,155.92,ap-northeast-1,2024-12-01,2024-12-31,USD
+373,DynamoDB,Storage,4709,29.48,ap-northeast-1,2024-12-01,2024-12-31,USD
+374,S3,Storage,3214,77.08,us-east-1,2024-12-01,2024-12-31,USD
+375,EKS,Compute,2595,322.81,eu-central-1,2024-12-01,2024-12-31,USD
+376,CloudFront,Function,4399,133.48,us-west-2,2024-12-01,2024-12-31,USD
+377,RDS,Database,2423,254.8,sa-east-1,2024-12-01,2024-12-31,USD
+378,Lambda,Networking,2406,432.42,eu-central-1,2024-12-01,2024-12-31,USD
+379,EC2,NoSQL,3795,369.91,ap-northeast-1,2024-12-01,2024-12-31,USD
+380,Lambda,Database,1863,38.56,eu-central-1,2024-12-01,2024-12-31,USD
+381,CloudFront,NoSQL,1935,293.16,us-west-2,2024-12-01,2024-12-31,USD
+382,S3,Function,235,236.4,us-east-1,2024-12-01,2024-12-31,USD
+383,Redshift,Data Warehouse,2290,247.31,us-east-1,2024-12-01,2024-12-31,USD
+384,Redshift,NoSQL,1544,45.3,ap-northeast-1,2024-12-01,2024-12-31,USD
+385,Lambda,Storage,1980,167.4,sa-east-1,2024-12-01,2024-12-31,USD
+386,EC2,Storage,1127,392.15,ap-northeast-1,2024-12-01,2024-12-31,USD
+387,Redshift,Compute,3475,325.09,us-west-2,2024-12-01,2024-12-31,USD
+388,CloudFront,Networking,3942,444.97,us-west-2,2024-12-01,2024-12-31,USD
+389,Redshift,Networking,3863,334.58,ap-northeast-1,2024-12-01,2024-12-31,USD
+390,Lambda,Kubernetes,1839,261.8,ap-northeast-1,2024-12-01,2024-12-31,USD
+391,Redshift,Function,128,277.43,us-west-2,2024-12-01,2024-12-31,USD
+392,DynamoDB,Compute,3391,19.38,ap-northeast-1,2024-12-01,2024-12-31,USD
+393,CloudFront,Database,1027,492.06,ap-southeast-1,2024-12-01,2024-12-31,USD
+394,EC2,Storage,3499,378.53,us-east-1,2024-12-01,2024-12-31,USD
+395,EKS,Compute,1079,242.68,us-west-2,2024-12-01,2024-12-31,USD
+396,EKS,Data Warehouse,4285,49.5,eu-central-1,2024-12-01,2024-12-31,USD
+397,Lambda,Data Warehouse,3543,10.72,ap-northeast-1,2024-12-01,2024-12-31,USD
+398,EC2,Networking,3086,125.42,us-west-2,2024-12-01,2024-12-31,USD
+399,Redshift,Kubernetes,4548,23.69,ap-southeast-1,2024-12-01,2024-12-31,USD
+400,RDS,Storage,4737,96.6,ap-northeast-1,2024-12-01,2024-12-31,USD
+401,Redshift,Data Warehouse,4651,417.97,us-east-1,2024-12-01,2024-12-31,USD
+402,Lambda,Compute,4669,325.11,us-east-1,2024-12-01,2024-12-31,USD
+403,RDS,Data Warehouse,3266,220.08,ap-southeast-1,2024-12-01,2024-12-31,USD
+404,S3,Data Warehouse,2035,268.52,ap-northeast-1,2024-12-01,2024-12-31,USD
+405,EKS,Data Warehouse,899,439.83,us-east-1,2024-12-01,2024-12-31,USD
+406,EC2,Networking,2831,426.35,us-east-1,2024-12-01,2024-12-31,USD
+407,EKS,Function,4023,455.96,ap-northeast-1,2024-12-01,2024-12-31,USD
+408,CloudFront,Storage,1835,70.34,ap-northeast-1,2024-12-01,2024-12-31,USD
+409,RDS,Database,3130,321.03,ap-northeast-1,2024-12-01,2024-12-31,USD
+410,RDS,Database,4297,181.4,ap-northeast-1,2024-12-01,2024-12-31,USD
+411,EC2,Compute,3661,50.43,sa-east-1,2024-12-01,2024-12-31,USD
+412,CloudFront,Database,4859,199.75,us-east-1,2024-12-01,2024-12-31,USD
+413,EC2,Kubernetes,704,127.18,eu-central-1,2024-12-01,2024-12-31,USD
+414,DynamoDB,Storage,2874,197.3,us-east-1,2024-12-01,2024-12-31,USD
+415,Redshift,Function,1105,399.02,eu-central-1,2024-12-01,2024-12-31,USD
+416,RDS,NoSQL,4101,302.6,us-east-1,2024-12-01,2024-12-31,USD
+417,Lambda,Storage,4199,173.18,ap-southeast-1,2024-12-01,2024-12-31,USD
+418,CloudFront,Kubernetes,3670,84.3,us-east-1,2024-12-01,2024-12-31,USD
+419,DynamoDB,Database,4204,309.23,ap-northeast-1,2024-12-01,2024-12-31,USD
+420,RDS,Database,4029,449.54,us-west-2,2024-12-01,2024-12-31,USD
+421,EC2,Compute,2254,100.76,ap-southeast-1,2024-12-01,2024-12-31,USD
+422,Redshift,NoSQL,1576,280.78,ap-northeast-1,2024-12-01,2024-12-31,USD
+423,EKS,Storage,3997,252.67,ap-southeast-1,2024-12-01,2024-12-31,USD
+424,CloudFront,Function,3607,59.26,us-west-2,2024-12-01,2024-12-31,USD
+425,CloudFront,Database,1297,413.37,us-east-1,2024-12-01,2024-12-31,USD
+426,Redshift,Compute,4679,472.19,eu-central-1,2024-12-01,2024-12-31,USD
+427,CloudFront,NoSQL,1288,18.17,eu-central-1,2024-12-01,2024-12-31,USD
+428,Lambda,Compute,2660,265.72,us-west-2,2024-12-01,2024-12-31,USD
+429,CloudFront,NoSQL,4330,436.11,eu-central-1,2024-12-01,2024-12-31,USD
+430,Lambda,NoSQL,3305,49.06,us-west-2,2024-12-01,2024-12-31,USD
+431,Redshift,Kubernetes,776,228.57,ap-northeast-1,2024-12-01,2024-12-31,USD
+432,Redshift,Function,4239,181.66,eu-central-1,2024-12-01,2024-12-31,USD
+433,EKS,Function,1343,427.61,us-west-2,2024-12-01,2024-12-31,USD
+434,S3,Networking,3983,368.04,us-west-2,2024-12-01,2024-12-31,USD
+435,S3,Database,3158,230.87,us-west-2,2024-12-01,2024-12-31,USD
+436,EKS,Database,4595,99.51,us-west-2,2024-12-01,2024-12-31,USD
+437,Redshift,Data Warehouse,1130,57.91,us-west-2,2024-12-01,2024-12-31,USD
+438,EKS,NoSQL,1835,463.27,ap-southeast-1,2024-12-01,2024-12-31,USD
+439,EC2,NoSQL,1082,189.95,ap-northeast-1,2024-12-01,2024-12-31,USD
+440,CloudFront,Compute,270,439.34,sa-east-1,2024-12-01,2024-12-31,USD
+441,Redshift,Database,3168,263.03,sa-east-1,2024-12-01,2024-12-31,USD
+442,Lambda,Function,3273,47.13,us-east-1,2024-12-01,2024-12-31,USD
+443,DynamoDB,Networking,4497,202.78,eu-central-1,2024-12-01,2024-12-31,USD
+444,CloudFront,Function,1180,388.6,ap-southeast-1,2024-12-01,2024-12-31,USD
+445,DynamoDB,Storage,1040,89.29,ap-southeast-1,2024-12-01,2024-12-31,USD
+446,EC2,Compute,1511,460.37,sa-east-1,2024-12-01,2024-12-31,USD
+447,CloudFront,Function,936,33.89,ap-southeast-1,2024-12-01,2024-12-31,USD
+448,EKS,Storage,3589,246.36,ap-southeast-1,2024-12-01,2024-12-31,USD
+449,S3,Function,2758,133.55,ap-northeast-1,2024-12-01,2024-12-31,USD
+450,RDS,Function,3519,316.83,ap-northeast-1,2024-12-01,2024-12-31,USD
+451,S3,NoSQL,3919,475.72,sa-east-1,2024-12-01,2024-12-31,USD
+452,RDS,Kubernetes,825,333.43,ap-northeast-1,2024-12-01,2024-12-31,USD
+453,Lambda,Database,3393,104.1,sa-east-1,2024-12-01,2024-12-31,USD
+454,RDS,NoSQL,2908,308.71,sa-east-1,2024-12-01,2024-12-31,USD
+455,EC2,Networking,1884,229.16,ap-southeast-1,2024-12-01,2024-12-31,USD
+456,EC2,Database,205,158.48,us-west-2,2024-12-01,2024-12-31,USD
+457,Redshift,Kubernetes,2536,45.9,sa-east-1,2024-12-01,2024-12-31,USD
+458,EC2,Networking,650,272.07,sa-east-1,2024-12-01,2024-12-31,USD
+459,EC2,Storage,4748,394.62,ap-northeast-1,2024-12-01,2024-12-31,USD
+460,DynamoDB,Storage,1889,51.89,ap-southeast-1,2024-12-01,2024-12-31,USD
+461,DynamoDB,Data Warehouse,727,75.7,ap-northeast-1,2024-12-01,2024-12-31,USD
+462,DynamoDB,Networking,902,476.71,eu-central-1,2024-12-01,2024-12-31,USD
+463,RDS,Data Warehouse,1201,396.94,ap-northeast-1,2024-12-01,2024-12-31,USD
+464,EKS,Kubernetes,796,335.75,us-west-2,2024-12-01,2024-12-31,USD
+465,Redshift,NoSQL,3654,273.2,eu-central-1,2024-12-01,2024-12-31,USD
+466,S3,Networking,3598,58.63,us-east-1,2024-12-01,2024-12-31,USD
+467,DynamoDB,Data Warehouse,1853,219.38,eu-central-1,2024-12-01,2024-12-31,USD
+468,CloudFront,Data Warehouse,4823,320.68,ap-northeast-1,2024-12-01,2024-12-31,USD
+469,CloudFront,Compute,4389,286.53,sa-east-1,2024-12-01,2024-12-31,USD
+470,RDS,Function,1840,99.14,ap-southeast-1,2024-12-01,2024-12-31,USD
+471,Lambda,Data Warehouse,3378,142.28,ap-southeast-1,2024-12-01,2024-12-31,USD
+472,Redshift,NoSQL,493,94.49,ap-northeast-1,2024-12-01,2024-12-31,USD
+473,Lambda,Kubernetes,4588,326.94,eu-central-1,2024-12-01,2024-12-31,USD
+474,DynamoDB,Compute,3985,487.65,sa-east-1,2024-12-01,2024-12-31,USD
+475,S3,Compute,2946,347.72,us-west-2,2024-12-01,2024-12-31,USD
+476,Lambda,Database,3202,259.5,ap-northeast-1,2024-12-01,2024-12-31,USD
+477,Lambda,NoSQL,774,212.05,ap-northeast-1,2024-12-01,2024-12-31,USD
+478,EC2,NoSQL,2874,208.8,ap-northeast-1,2024-12-01,2024-12-31,USD
+479,Redshift,Kubernetes,359,369.44,ap-southeast-1,2024-12-01,2024-12-31,USD
+480,S3,Database,3121,180.8,eu-central-1,2024-12-01,2024-12-31,USD
+481,EKS,Data Warehouse,3598,30.2,ap-southeast-1,2024-12-01,2024-12-31,USD
+482,Redshift,Function,702,326.74,ap-southeast-1,2024-12-01,2024-12-31,USD
+483,EC2,Storage,4874,74.26,us-east-1,2024-12-01,2024-12-31,USD
+484,Redshift,Compute,3394,369.83,sa-east-1,2024-12-01,2024-12-31,USD
+485,RDS,Networking,4465,211.57,ap-southeast-1,2024-12-01,2024-12-31,USD
+486,EC2,Function,2932,196.81,eu-central-1,2024-12-01,2024-12-31,USD
+487,EC2,Networking,979,158.39,us-west-2,2024-12-01,2024-12-31,USD
+488,Lambda,NoSQL,1825,384.89,ap-southeast-1,2024-12-01,2024-12-31,USD
+489,EKS,NoSQL,1854,21.71,ap-southeast-1,2024-12-01,2024-12-31,USD
+490,Lambda,Data Warehouse,574,378.87,us-east-1,2024-12-01,2024-12-31,USD
+491,CloudFront,Function,2014,258.6,us-west-2,2024-12-01,2024-12-31,USD
+492,Lambda,Compute,2955,484.52,ap-northeast-1,2024-12-01,2024-12-31,USD
+493,Redshift,Storage,3669,185.51,ap-southeast-1,2024-12-01,2024-12-31,USD
+494,S3,Storage,1930,195.2,ap-northeast-1,2024-12-01,2024-12-31,USD
+495,EKS,Networking,4242,214.63,ap-southeast-1,2024-12-01,2024-12-31,USD
+496,DynamoDB,Kubernetes,2995,261.75,sa-east-1,2024-12-01,2024-12-31,USD
+497,CloudFront,Data Warehouse,1000,427.46,eu-central-1,2024-12-01,2024-12-31,USD
+498,DynamoDB,Networking,3973,493.99,eu-central-1,2024-12-01,2024-12-31,USD
+499,S3,Function,2734,309.9,ap-southeast-1,2024-12-01,2024-12-31,USD
+500,RDS,Networking,2749,320.16,us-west-2,2024-12-01,2024-12-31,USD
